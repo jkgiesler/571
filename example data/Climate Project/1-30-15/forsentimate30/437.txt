@@ -1,0 +1,75 @@
+What's the link between intelligence and confidence?
+437
+https://agenda.weforum.org/2014/11/whats-link-intelligence-confidence/?utm_content=bufferce053&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+It is an unfortunate paradox: if you’re bad at something, you probably also lack the skills to asses your own performance. And if you don’t know much about a topic, you’re unlikely to be aware of the scope of your own ignorance.
+
+Type in any keyword into a scientific search engine and a staggering number of published articles appears. “Climate change” yields 238,000 hits; “tobacco lung cancer” returns 14,500; and even the largely unloved “Arion ater” has earned a respectable 245 publications.
+
+Experts are keenly aware of the vastness of the knowledge landscape in their fields. Ask any scholar and they will likely acknowledge how little they know relative to what is knowable – a realisation that may date back to Confucius.
+
+Here is the catch: to know how much more there is to know requires knowledge to begin with. If you start without knowledge, you also do not know what you are missing out on.
+
+This paradox gives rise to a famous result in experimental psychology known as the Dunning-Kruger effect. Named after Justin Kruger and David Dunning, it refers to a study they published in 1999. They showed that the more poorly people actually performed, the more they over-estimated their own performance.
+
+People whose logical ability was in the bottom 12% (so that 88 out of 100 people performed better than they did) judged their own performance to be among the top third of the distribution. Conversely, the outstanding logicians who outperformed 86% of their peers judged themselves to be merely in the top quarter (roughly) of the distribution, thereby underestimating their performance.
+
+Ignorance is associated with exaggerated confidence in one’s abilities, whereas experts are unduly tentative about their performance. This basic finding has been replicated numerous times in many different circumstances. There is very little doubt about its status as a fundamental aspect of human behaviour.
+
+Confidence and credibility
+
+Here is the next catch: in the eyes of others, what matters most to judge a person’s credibility is their confidence. Research into the credibility of expert witnesses has identified the expert’s projected confidence as the most important determinant in judged credibility. Nearly half of people’s judgements of credibility can be explained on the basis of how confident the expert appears — more than on the basis of any other variable.
+
+Does this mean that the poorest-performing — and hence most over-confident — expert is believed more than the top performer whose displayed confidence may be a little more tentative? This rather discomforting possibility cannot be ruled out on the basis of existing data.
+
+But even short of this extreme possibility, the data on confidence and expert credibility give rise to another concern. In contested arenas, such as climate change, the Dunning-Kruger effect and its flow-on consequences can distort public perceptions of the true scientific state of affairs.
+
+To illustrate, there is an overwhelming scientific consensus that greenhouse gas emissions from our economic activities are altering the Earth’s climate. This consensus is expressed in more than 95% of the scientific literature and it is shared by a similar fraction — 97-98% – of publishing experts in the area. In the present context, it is relevant that research has found that the“relative climate expertise and scientific prominence” of the few dissenting researchers “are substantially below that of the convinced researchers”.
+
+Guess who, then, would be expected to appear particularly confident when they are invited to expound their views on TV, owing to the media’s failure to recognise (false) balance as (actual) bias? Yes, it’s the contrarian blogger who is paired with a climate expert in “debating” climate science and who thinks that hot brick buildings contribute to global warming.
+
+‘I’m not an expert, but…’
+
+How should actual experts — those who publish in the peer-reviewed literature in their area of expertise — deal with the problems that arise from Dunning-Kruger, the media’s failure to recognise “balance” as bias, and the fact that the public uses projected confidence as a cue for credibility?
+
+We suggest two steps based on research findings.
+
+The first focuses on the fact of a pervasive scientific consensus on climate change. As one of us has shown, the public’s perception of that consensus is pivotal in determining their acceptance of the scientific facts.
+
+When people recognise that scientists agree on the climate problem, they too accept the existence of the problem. It is for this reason that Ed Maibach and colleagues, from the Centre for Climate Change Communication at George Mason University, have recently called on climate scientists to set the record straight and inform the public that there is a scientific consensus that human-caused climate change is happening.
+
+One might object that “setting the record straight” constitutes advocacy. We do not agree; sharing knowledge is not advocacy and, by extension, neither is sharing the strong consensus behind that knowledge. In the case of climate change, it simply informs the public of a fact that is widely misrepresented in the media.
+
+The public has a right to know that there is a scientific consensus on climate change. How the public uses that knowledge is up to them. The line to advocacy would be crossed only if scientists articulated specific policy recommendations on the basis of that consensus.
+
+The second step to introducing accurate scientific knowledge into public debates and decision-making pertains precisely to the boundary between scientific advice and advocacy. This is a nuanced issue, but some empirical evidence in a natural-resource management context suggests that the public wants scientists to do more than just analyse data and leave policy decisions to others.
+
+Instead, the public wants scientists to work closely with managers and others to integrate scientific results into management decisions. This opinion appears to be equally shared by all stakeholders, from scientists to managers and interest groups.
+
+Advocacy or understanding?
+
+In a recent article, we wrote that “the only unequivocal tool for minimising climate change uncertainty is to decrease our greenhouse gas emissions”. Does this constitute advocacy, as portrayed by some commenters?
+
+It is not. Our statement is analogous to arguing that “the only unequivocal tool for minimising your risk of lung cancer is to quit smoking”. Both statements are true. Both identify a link between a scientific consensus and a personal or political action.
+
+Neither statement, however, advocates any specific response. After all, a smoker may gladly accept the risk of lung cancer if the enjoyment of tobacco outweighs the spectre of premature death — but the smoker must make an informed decision based on the scientific consensus on tobacco.
+
+Likewise, the global public may decide to continue with business as usual, gladly accepting the risk to their children and grandchildren – but they should do so in full knowledge of the risks that arise from the existing scientific consensus on climate change.
+
+Some scientists do advocate for specific policies, especially if their careers have evolved beyond simply conducting science and if they have taken new or additional roles in policy or leadership.
+
+Most of us, however, carefully limit our statements to scientific evidence. In those cases, it is vital that we challenge spurious accusations of advocacy, because such claims serve to marginalise the voices of experts.
+
+Portraying the simple sharing of scientific knowledge with the public as an act of advocacy has the pernicious effect of silencing scientists or removing their expert opinion from public debate. The consequence is that scientific evidence is lost to the public and is lost to the democratic process.
+
+But in one specific way we are advocates. We advocate that our leaders recognise and understand the evidence.
+
+We believe that sober policy decisions on climate change cannot be made when politicians claim that they are not scientistswhile also erroneously claiming that there is no scientific consensus.
+
+We advocate that our leaders are morally obligated to make and justify their decisions in light of the best available scientific, social and economic understanding.
+
+Published in collaboration with The Conversation
+
+Author: Stephan Lewandowsky is Chair of Cognitive Psychology at University of Bristol. Richard Pancost is Professor of Biogeochemistry, Director of the Cabot Institute at University of Bristol
+
+Image: Artist Olafur Eliasson’s giant representation of the sun, part of his Weather Project in the Turbine Hall of London’s Tate Modern, October 15, 2003. REUTERS/Peter MacDiarmid

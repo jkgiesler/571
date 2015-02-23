@@ -1,0 +1,59 @@
+The Gap Between Public and Scientific Opinion
+42
+http://theness.com/neurologicablog/index.php/the-gap-between-public-and-scientific-opinion/
+
+A recently published poll from the Pew Research center finds that there is a huge gap between public opinion and the opinion of scientists on many important scientific issues of the day. This is disappointing, but not surprising, for a variety of reasons.
+
+Generally speaking, if the majority of scientists have the same opinion about a scientific question (especially relevant experts), then it is a good idea to take that majority opinion seriously. It does not have to be correct, but if you were playing the odds I would go with the experts. If public opinion differs from the opinion of scientists on a scientific question, it is a safe bet that the public is wrong, probably because of interfering cultural, social, political, ideological, psychological, or religious beliefs. (Scientists have those too, which may explain the minority opinion in some cases.)
+
+This attitude is often portrayed as elitism – usually by those who disagree with the scientific majority. Those relatively new to concepts of critical thinking, or trying to sound as if they are critical thinkers, might also dismiss such sentiments as an “argument from authority,” and then declare themselves the victor because they were able to point to a logical fallacy. They miss the fact that informal logical fallacies are context dependent, and it is not a fallacy to respect (within reasonable limits) the consensus of expert opinion.
+
+Another strategy for those who are not comfortable with the scientific consensus is to simply make up their own facts. They deny the consensus exists, or even go so far as to create their own “scientific” institutions dedicated not to science but to the predetermined outcome they desire. They manufacture their own consensus (although limited to their alternative reality).
+
+However, the reigning champion of strategies to dismiss a scientific consensus in favor of your own ideology is – the conspiracy theory. Conspiracies are rhetorically wonderful. They are the “get out of jail free” card for any belief that is contradicted by a majority of scientists. The majority of scientists disagree with your narrative because of “Big X,” they are corrupt, under corporate influence, closed-minded, they are all atheists, or simply are seeking to maximize their own research funding. Such allegations can be made up out of whole cloth, without the burden of any evidence, or even the slightest understanding of how the institutions of science and the institutions that fund and regulate science operate.
+
+Once you have played the conspiracy card, you are immune to evidence or logic. Any study can be dismissed. Nothing has to make even the slightest bit of sense. A robust consensus of expert opinion is irrelevant.
+
+There is also a massive dose of Dunning-Kruger at play here. If one lacks knowledge in a specific area they also lack the knowledge to judge their own lack of knowledge. Psychologists have also described a more general “overconfidence” bias. In our ignorance, we assume we know more than we do, and we are hugely overconfident in our correctness.
+
+Modern science can be very complicated. It takes years of study just to have the basic tools to then do the real study that expertise in an area requires. Science also functions as a community, with the quirky ideas and errors of individuals being hammered out by multiple layers of peer review. If you are wrong, your colleagues will likely tell you in no uncertain terms. It’s a messy process full of error, false starts, confusion, egos, and all that. But it is a process that favors logic and evidence, and over time it does grind out increasing confidence in certain models of how the world works.
+
+A robust consensus of scientific opinion that has been built on decades of research, debate, questioning, and testing is a pretty solid basis on which to base personal and societal choices.
+
+It is amazing that people will substitute their own poorly informed and biased gut feelings for a robust consensus of experts. Some non-scientists actually think they have enough knowledge of climate modeling to have a relevant opinion about the accuracy of current models. Actually what is happening is that they have an opinion which is based upon their ideology and dominant narratives, and then back fill justifications for their ideological opinions. They simply ignore the fact that they can’t read and understand the technical literature. When you put it to them that way, they start rifling through the excuses I listed above, most often reaching for the conspiracy theory.
+
+Getting back to the Pew poll, they found that the biggest gap between scientific and public opinion concerned the safety of GMO food. In their poll 88% of members of the American Academy for the Advancement of Science (AAAS) stated that they have no concerns about the safety of GMO food, while only 37% of the public did – a 51% gap.
+
+This is not surprising, and is in line with my sense over the last couple of years that the GMO debate is one of the topics where the gap between science and public opinion is the greatest (which is exactly why I have been focusing on this issue of late).
+
+Other issues explored (given as the percentage of scientists/public opinion respectively) include:
+
+favor use of animals in research – 89/47
+
+safe to eat food grown with pesticides – 68/28
+
+humans have evolved over time – 98/68
+
+childhood vaccines should be required – 86/68
+
+climate change is mostly due to human activity – 87/50
+
+favor building more nuclear power plants – 65/45
+
+The one area where there was the most agreement: the space station has been a good investment for the US – 68/64
+
+In each case I agree with the scientific majority. Some of the figures are surprisingly low, such as only 87% agreeing with man-made climate change, but surveys can be tricky and the numbers can change based on exact wording. People may not be willing to sign off on what they perceive as the full implications of the question, even if they mostly agree with it. Surveys miss a lot of nuance.
+
+Large patterns, however, are more reliable. What this survey showed is that people generally have a positive attitude toward science and scientists, but will flip their opinion on any issue where the scientific majority conflicts with their ideology.
+
+Conclusion
+
+What are the lessons from this latest survey (which generally agrees with other surveys about scientific opinions and literacy)? For me, as a neuroscientist and skeptic, the biggest lesson is to be humble (embrace what I call neuropsychological humility). I would add expertise-humility (I need a better term, but that will do for now). What I mean by this is the opposite of Dunning-Kruger – make an effort to understand the gap between your knowledge and the knowledge of experts. Assume that the gap is vast if you are not an expert. Don’t assume that your naive opinions are well-informed or likely to be reliable.
+
+I often invite people to consider an area of knowledge where they do consider themselves to be experts. Now think about the opinions of the average person regarding your area of expertise, how is it portrayed in the media, etc.? In my experience (I ask this a lot) 100% of people with expertise in anything believe that the average person is hopelessly naive and misinformed about their area of expertise.
+
+Then I invite them to take the next logical step – you are just as hopelessly naive and misinformed about everything else, about any area in which you do not have expertise.
+
+So be humble. Listen to the experts. Fight against the overconfidence bias. Fight against your own manifestation of the Dunning-Kruger effect. Assume you lack information. Respect those who have spent decades of their life studying one complex area, and the consensus of a community of experts who have spent a long time hammering out their ideas against harsh reality. Don’t fall for conspiracy theories.
+
+If we learn these lessons, and improve science and critical thinking education, we can hopefully close those gaps.

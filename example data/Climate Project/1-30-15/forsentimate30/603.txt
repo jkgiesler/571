@@ -1,0 +1,111 @@
+Global Calculator Tool for Climate Change
+603
+http://sustainablecitiescollective.com/david-thorpe/1040831/new-open-source-calculator-claims-world-can-live-well-and-tackle-climate-change
+
+Can we survive climate change and have economic growth? Debate rages between those who think we can have it both ways, and those who say that it is a dangerous fantasy since the model of infinite growth is inherently unsustainable.
+
+Now a new, seemingly authoritative Global Calculator tool claims to have discovered that everybody in the world can actually have a reasonable standard of living that is compatible with living within planetary boundaries.
+
+The team responsible for the calculator has been led by Climate KIC, which is the EU’s main climate innovation initiative and Europe’s largest public-private innovation partnership focused on mitigating and adapting to climate change. Climate-KIC consists of companies, academic institutions and the public sector.
+
+At the launch today of the calculator Mike Cherrett, Director of Operations and International Partnerships at Climate-KIC, said: “The calculator clearly highlights that we can meet our 2°C target while maintaining good lifestyles – but we need to set ambitious targets on all fronts and use innovation to address climate change."
+
+He said that the world had a considerable challenge "to find new commercially-viable business models – but for those organisations who succeed, the reward is even greater. The calculator provides a framework for policy makers and business leaders to create an environment where this is possible."
+
+His words were echoed by the British Secretary for Energy and Climate Change, Ed Davey, who said that he wanted to persuade people around the world in advance of the historic climate change negotiations due to take place in Paris in December that "taking action to fight climate change can also benefit people and improve their quality of life".
+
+The tool has been developed by an international team commissioned by the UK's Department for Energy and Climate Change. The tool is based on an open source Microsoft Excel spreadsheet, which is published on the website so that anyone may investigate it, play with the variables and query its assumptions.
+
+It is an evolution of a tool the Department first published in 2009, since when 20 other countries in the world, such as China, India, Columbia and Vietnam, have developed their own versions. These have been used to guide respective government policies. The revised version is based on lessons learned from all of these. Its principles are:
+
+completely open source - the underlying model (built in Excel) and documentation are published;
+
+relatively simple, engineering-based models designed for scenario testing;
+
+user friendly web-based interface means that non-experts can use it;
+
+shows the full range of potential ambition across sectors using a level 1-4 approach;
+
+involves external experts in the build of the tool;
+
+models are published as public "calls for evidence" on their data and approach.
+
+In other words experts and the general public around the world are invited to use the tool and feedback on it.
+
+What is the definition of a "good lifestyle" used as a basis for the main claim?
+
+It is that in general, lifestyle indicators everywhere tend towards the current levels seen in developed countries such as Europe. The average Indian could be around five times more wealthy and the average Chinese around six times more wealthy than today. The average American who will be around twice as wealthy as today. Since the Global Calculator looks at world averages only, it says nothing about relative inequality.
+
+In other words, world average lifestyle indicators around transport (e.g. how far people travel) and homes (e.g. how comfortably heated/cooled they are and how many appliances they have) continue to develop along a business as usual pathway (in this case the International Energy Agency's 6°C Scenario) from now to 2050.
+
+For diet, the world average food intake also continues to increase as projected by the Food and Agriculture Organisation of the UN, which by 2050 would exceed the levels recommended by the WHO for a healthy, active lifestyle.
+
+This is a relatively worst-case scenario in the IEA's projections since without a decrease in fossil fuel use it sees global temperature rise to be at least 6°C in the long term, a disastrous outcome. Global energy demand could rise around 70% by 2050. It is consistent with the World Energy Outlook Current Policy Scenario.
+
+These trends are pretty much what everybody assumes will happen, since it is natural for citizens around the world who have less to aspire to lifestyles similar to those in the developed world. But it is normally assumed that this is totally unsustainable.
+
+This projection sees the world’s population rise from 7 billion in 2011 to around 10 billion by 2050, with global GDP at least tripling.
+
+This has enormous implications for consumption, including the size of people's homes and the fact that that on average everyone will eat around 2,300 calories per day by 2050, up from around 2,200 in 2011 (UN FAO figures).
+
+So why does the calculator find that this is ok?
+
+Success, it explains in the documents accompanying the publication of the tool, depends upon the world acting now to transform the technologies and fuels it uses to sustainable sources and make smarter use of land for food, forestry and fuel to reduce emissions and absorb carbon dioxide from the atmosphere.
+
+Four plausible 2°C pathways are explored in the model: "distributed effort”, “consumer reluctance”, “low action on forests” and “consumer activism".
+
+These all approximately match the above business as usual scenario where lifestyles continue to improve as economies develop.
+
+But instead of emissions increasing, the global mean temperature rise is limited to 2 degrees. The model implies that to achieve this we need to urgently transform the technologies and fuels we use and make smarter use of our limited land resources:
+
+the amount of CO 2 emitted per unit of electricity globally needs to fall by at least 90% by 2050;
+
+emitted per unit of electricity globally needs to fall by at least 90% by 2050; the proportion of households that heat their homes using electric or zero-carbon sources should rise from 5% today to 25-50% globally by 2050;
+
+buildings in 2050 must be 50-65% better insulated;
+
+appliances should be more efficient than today (for example, refrigerators should be 40% more efficient);
+
+cars should be around 50% more efficient;
+
+up to 64% of emissions from the manufacture of cement would need to be captured by 2050, compared to zero in 2011;
+
+forests globally must be expanded by around 5-15% by 2050 because forests act as a valuable carbon sink;
+
+therefore the proportion of beef produced from confined systems (6% today) should be between 3% and 15% by 2050;
+
+the average number of cows per hectare for pasture land (100 m x 100 m) should be increased from 0.6 today to 0.9-1.0 by 2050;
+
+crop yields should be 40-60% higher than 2011 levels by 2050;
+
+productivity can also be increased by making multiple uses of land (e.g. co-cropping or multi-cropping), in order to reduce the land required for crops by around a further 10%.
+
+In other words it depends on lastly improved stewardship, which itself depends upon one informed and sensible leadership. This in turn depends upon a globally agreed and legally binding set of aims.
+
+One of the team members, Erica Thompson told SCC that: "In the Global Calculator, we have made efforts to communicate the possible range of climate outcomes, so there is a clear temperature target as defined by the UNFCCC, but also an indication of the level of risk of exceeding that target.
+
+"The Global Calculator is a highly simplified model that lets you control the whole world with forty levers, so inevitably the output is simplistic - it gives us a way to play with the options and get a feel for the scale of change that is needed. It shows that the climate and energy challenge the world faces is not a pass/fail problem, and neither is there a magic bullet solution. Effort in all sectors will be needed, and if some sectors are allowed leeway, others will have to take up the slack."
+
+She added that "Planetary boundaries are not explicitly considered by the Global Calculator; in particular, we have not considered the effects of water scarcity or any feedback effects of climate change onto other sectors, which would certainly increase costs and reduce the feasibility of some pathways".
+
+How much would it cost?
+
+That's the big question. The model finds that the spending difference between business as usual and meeting climate targets is marginal and could go either way.
+
+Under business as usual, the total energy system cost could more than double between 2011 and 2050. However, the total cost of a decarbonised energy system is only fractionally higher, and it could even be cheaper.
+
+For example, the 2°C pathways outlined in this paper range from saving 2% of global GDP compared to business as usual, to being more expensive by 3% of global GDP12. This does not take into account wider economic benefits from switching to a 2°C pathway, in particular the fact that under business as usual the world would experience more floods, droughts, heat waves and crop failures.
+
+Although 2°C pathways can be more expensive because the capital costs of clean technologies tend to be greater than the fossil fuel alternatives, on the other hand, 2°C pathways can be cheaper because of the energy efficiency measures that reduce overall energy demand.
+
+Of the four plausible 2°C pathways, the cheapest one is “consumer activism”: it could be $2 trillion less than the business as usual pathway. It assumes people travel just as much as under business as usual, but do so using more public transport, more car sharing, and greater use of car hire (rather than owning their own car). This reduces spending on cars and roads.
+
+The most expensive of the four plausible 2°C pathways is “low action on forests”, which is $4.2 trillion more expensive (equivalent to 3% of global GDP).
+
+Myth busting
+
+The researchers are intent on dispelling for popular "myths" about how we can deal with the above problems. They say emphatically that:
+
+We cannot rely on switching from coal to gas as a major contributor to tackling climate change. All unabated fossil fuels contribute to climate change: for example, an efficient gas plant currently emits 350 gCO2e/kWh. We need to decarbonise global electricity generation to near zero gCO2e/kWh by 2050. We cannot rely on running out of fossil fuel. The world has enough fossil fuel resources to put the world at risk of a global mean temperature of over 6°C by 2100. We also cannot rely on technologies to suck carbon out of the atmosphere. These technologies are extremely uncertain in terms of technical feasibility, environmental impact, public acceptability, energy consumption and cost. We cannot rely on curbing population. Keeping to the UN’s lower projected estimate (8 billion) would only save around 10 GtCO2e by 2050. This is significant but should not be considered a “silver bullet”.
+
+It will be interesting to see what others make of the tool when they begin to explore it, and whether it can be used to give world leaders the confidence to make the right decisions in Paris this year.

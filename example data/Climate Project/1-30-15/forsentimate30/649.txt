@@ -1,0 +1,17 @@
+The Economist explains: Why is renewable energy so expensive?
+649
+http://www.economist.com/blogs/economist-explains/2014/01/economist-explains-0
+
+MOST people agree that carbon emissions from power stations are a significant cause of climate change. These days a fiercer argument is over what to do about it. Many governments are pumping money into renewable sources of electricity, such as wind turbines, solar farms, hydroelectric and geothermal plants. But countries with large amounts of renewable generation, such as Denmark and Germany, face the highest energy prices in the rich world. In Britain electricity from wind farms costs twice as much as that from traditional sources; solar power is even more dear. What makes it so costly?
+
+
+
+Enthusiasts have used wind turbines to generate electricity since the 1880s, but efforts to build very large wind farms started only in the late 1970s. Utility-scale solar and other renewable generation is more recent still. Despite the lure of government subsidies, there are still too few companies making renewable kit (almost all the wind turbines in British seas, as one example, are produced by a single firm). Supply-chain bottlenecks have frustrated governments scrabbling to install new renewable capacity. And compared with traditional power stations, renewable generators are cheap to run but costly to build, which makes them particularly vulnerable to changes in the cost of capital.
+
+
+
+A more fundamental challenge is that renewable generators also impose costs on the wider electricity grid. The best sites are often far from big cities (on Scottish hillsides, French lakes or American deserts) which makes them expensive to connect. Many common types of renewable generators only produce power intermittently—when the sun shines or when the wind blows. Wind turbines, for example, spin only about a third of the time. That means countries which have a lot of renewable generation must still pay to maintain traditional kinds of power stations ready to fire up when demand peaks. And energy from these stations also becomes more expensive because they may not run at full-blast.
+
+
+
+The high cost of renewable generators obstructs efforts to tackle climate change, even when governments dig deep to fund them. One danger is that sharp rises in energy prices will drive manufacturers to set up in less “green” countries, which might mean citizens end up consuming more carbon, through imports. Another worry is that governments will end up extending the life of dirty coal plants to serve as back-up when renewable generation is low—or when over-ambitious renewable roll-outs run out of steam. But for now the main consequence of high renewable costs is growing interest in controversial alternatives. The price of nuclear power has been rising for decades, but it still looks less expensive than many types of renewable generation. Gas-fired power stations are roughly half as polluting as coal-fired ones. Building more of them could provide a cheaper way for countries to cut emissions in the short term, and buy renewable operators time to bring their costs under control.

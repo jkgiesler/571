@@ -1,0 +1,79 @@
+3 Big Challenges for Latin America's Electricity Sector, 3 Big Strategies for a Successful Future
+391
+http://www.huffingtonpost.com/jake-levine/3-big-challenges-for-lati_b_5276684.html
+
+The World Bank expects Latin America's power consumption to more than double between 2010 and 2030, and estimates that $430 billion of investment will be needed to meet that demand. An even more intimidating perspective comes from a recent World Energy Council report, which concludes that between now and 2050, "even in the best case, the growth of energy supply in [Latin America] will still be insufficient to meet the rising energy demand associated with economic growth."
+
+Latin America's power consumption is expected to nearly double by 2030. Source: "Meeting the Balance of Electricity Supply and Demand in Latin America and the Caribbean" (Figure ES2, World Bank, 2011)
+
+What's causing these challenges for the region's energy sector and the electricity industry in particular? Demographic, technical, and environmental factors are all compounding in ways not seen before.
+
+To tee up our May 21st webinar conversation about energy efficiency potential in Latin America (which you can sign up for here), consider these three big challenges for Latin America's electricity sector, and three big strategies for a successful future.
+
+3 Big Challenges
+
+1) A Rising Middle Class
+
+The second decade of the 21st century signaled an historic shift in Latin American demographics: for the first time ever, more Latin Americans are living in the middle class than in poverty. And more are poised to join the ranks.
+
+In Brazil, 37% of households will soon be middle-class or higher -- up from 24% in the year 2000. This portends tens of millions new consumers moving into the middle class in Brazil alone between 2013 and 2023. Some analysts expect Mexico to experience a nearly 30% growth in the middle class in the next five years alone.
+
+More middle-class consumers means more refrigerators, television sets, air conditioners, and even more pet care. That all points to growing electricity needs.
+
+2) Infrastructure Limitations
+
+In the midst of rising demand, Latin America has been struggling with a wide-range of issues in building out new electric generation capacity.
+
+Brazil and Chile have recently stalled plans to build new hydro-powered dams because of human rights and environmental concerns, forcing them to look for other sources of energy to meet projected demand.
+
+Mexico represents an additional example, where the state-owned electric utility has been generating much of its electricity using natural gas, but has needed to use more expensive fuels as a way to free up natural gas for industry in response to recent natural gas shortages. Now, with Mexico's recent energy reform, private companies will participate in exploration and production for the first time in more than 75 years, and CFE (the country's electric utility) is seeking private-sector bids for natural-gas pipelines in northern Mexico that are expected to cost $2.25 billion.
+
+Even domestic terrorism has led to the destruction of power infrastructure in the region, as in the case of rural power supplies in Colombia.
+
+3) Climate Change
+
+Climate change has added unprecedented operational risk into Latin America's energy landscape. In the summer of 2013-2014, Argentinians were rattled by one of the country's most severe heat waves on record -- prompting a huge air-conditioning spike in December that set all-time highs for power demand. The Argentinian grid was so overstretched that even the Casa Rosada -- the country's Presidential Residence -- could not escape the summer's heat-related blackouts.
+
+To the northeast, in Brazil, February brought similar news. Peak demand for electricity reached an all-time high of 86 gigawatts. In a country that generates nearly 80% of its electricity from dams, water levels dipped below 37% of capacity, the lowest since 2001. And all this following the country's second-driest January in 80 years. Even some of the waterfalls from the Iguazu falls, one of the world's most iconic natural landscapes, largely dried up.
+
+Following the country's second-driest January in 80 years, water levels in Brazil's iconic Iguazu Falls diminished severely. Latin American countries are exploring how end-use energy efficiency can serve as a solution to overcome reduced hydroelectric output (Image credit: Sanrod.org)
+
+For the first time in over a decade, Brazil is considering power rationing to cope with the low water levels flowing through their dams. And even without rationing, Brazil's National Electricity System Operator, ONS, is recommending reductions in consumption of 4-6%.
+
+-
+
+In light of these challenges, governments and utilities have begun making great strides towards developing solutions. In Mexico, for example, the federal government is legislating a historic energy reform that will help the nation achieve its ambitious climate change goals while improving the reliability and efficiency of its electrical grid. And in Chile, Michelle Bachelet has reassumed the presidency with an ambitious agenda, including a specific call to catalyze a stronger effort around energy efficiency.
+
+Yet, despite these advances, demand-side resources - namely energy efficiency, demand response, and an engaged customer base - continue to be underutilized and can play a huge role for the region.
+
+Here are three things that Latin America can do to fully unlock its demand-side resources and usher in a robust energy future.
+
+-
+
+3 Big Strategies
+
+1) Incentivize Utilities to Champion Energy Efficiency
+
+Energy efficiency is the cheapest kilowatt of power generation never built. It is capable of providing resources that can displace electricity generation from coal, oil and other highly polluting fuels. And according to a new comprehensive report, energy efficiency costs utilities 2 to 3 times less than traditional power sources. Regarding its application in Latin America, the Natural Resources Defense Council recently highlighted energy efficiency as a crucial tool to enable sustainable growth in the region.
+
+Electric utilities have an important role to play. But in the absence of a modernized regulatory environment, utilities have a natural incentive to increase their sales and have limited incentives to pursue energy efficiency. Numerous regulatory models developed in California, Massachusetts, and dozens of other states and countries have demonstrated the value of creating the right incentives to get utilities investing in efficiency.
+
+Some Latin American countries -- like Brazil -- require distribution utilities to spend money on energy efficiency projects. But it's critical that industry leaders and policymakers take these measures a step further and incentivize energy efficiency results, not just energy efficiency spending.
+
+2) Enable Demand Response
+
+In addition to building long-term resources through sustained energy efficiency policies, governments should consider the immense potential benefits and savings that can be unlocked by demand response, which centers on trimming electric demand during peak times.
+
+In March, the Brazilian government said it will cost customers 12 billion reais (US$5.4 billion) to recover the cost of buying expensive thermal power on the spot market to replace depleted hydro reserves during the summer heatwave. Utilities incurred the biggest losses during the hottest and highest-demand periods of the day, when power was most expensive. While Brazil has already designed a "Tarifa Branca" to encourage consumers to buy electricity when it is cheapest, slashing demand during these critical peak times could ease stress on thermal resources- and help save people money.
+
+3) Put the customer first
+
+New electric sector strategies in the region should focus on the customer and ensure they receive the highest-quality energy services and tools they need to manage their bills. Mexico's sweeping Reforma Energetica has opened an exciting conversation about how to improve energy services for its citizens. Chile's new government has similarly announced plans to take up broad reforms. As other countries develop tools for sustainable growth, it's important to ensure electricity consumers have the information and control they need to make smart decisions about their energy consumption.
+
+New innovations, like the smart grid, have the potential to further empower consumers. As Latin America considers investing in these technologies, regional regulatory leaders and energy sector innovators should follow the lead of other countries, states, and municipalities that are shaping their electric-sector investments to ensure direct benefits for the consumer.
+
+To learn more about how utilities and policymakers can unlock energy efficiency in meeting Latin America's energy challenges, sign up for Opower's upcoming webinar, "Transforme a sus clientes en activos para el sector eléctrico."
+
+Jake Levine is Opower's Director of Regulatory Affairs for Latin America. Salvador Nunez leads Opower's product strategy for Latin America.
+
+This article was originally published on the Opower Blog. It is originally available here.

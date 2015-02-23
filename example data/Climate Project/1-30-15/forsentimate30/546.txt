@@ -1,0 +1,49 @@
+The AmVeh – an ammonia fueled car from South Korea
+546
+http://nh3fuelassociation.org/2013/06/20/the-amveh-an-ammonia-fueled-car-from-south-korea/
+
+South Korean researchers have successfully road-tested a dual fuel passenger car that runs on a mixture of ammonia and gasoline. It is called the AmVeh and was developed by members of the Ammonia Research Group at the Korean Institute for Energy Research (KIER).
+
+Ammonia-gasoline dual fuel, and pure ammonia engines
+
+The prototype vehicle uses a fuel ratio of 70% ammonia to 30% gasoline to power a spark ignition engine. As ammonia contains no carbon, this fuel ratio results in a corresponding 70% reduction in carbon dioxide emissions, compared to pure gasoline.
+
+The AmVeh team is now focused on improving the fuel system and the exhaust after-treatment system. Once these are optimized, they aim to develop an engine system that runs on ammonia alone, without any support from gasoline. The emissions from this carbon-free vehicle would be pure water and nitrogen.
+
+The engine system demonstrated in the AmVeh would enable conventional vehicles to be converted to ammonia fuel.
+
+Fleet Conversion
+
+By developing economically viable technology to convert an existing fleet to low- or zero-emission fuels, the Green Transportation Technology Group at KIER is addressing a slate of major domestic concerns. South Korea, the world’s fifth largest producer of automobiles, is also one of the most heavily motorized nations, with an ownership rate of 3.79 vehicles per person in 2011. This, combined with industrial and cross-border pollution, has led to serious problems with air quality [case study and map], and exposes the nation to economic risk from its almost total dependence on imported oil.
+
+According to Youngmin Woo, one of the AmVeh developers at KIER:
+
+“Demand for transport energy is growing and it is forecast that the number of vehicles in 2040 will be double what it is now. On the other hand, we are confronted with the need to reduce green house gas emissions from vehicles more and more to mitigate climate change. In the transportation sector, an ammonia fueled vehicle is definitely one of the promising solutions to deal with both demands together.”
+
+While newly purchased vehicles could be powered by electric batteries and fuel cells, the AmVeh’s system can be installed in the existing fleet, significantly increasing the speed at which South Korea could reduce its fossil fuel consumption and national emissions.
+
+For the prototype vehicle, the AmVeh developers converted an LPG-gasoline bi-fuel engine, giving it separate ammonia and gasoline fuel systems and a dual fuel engine control unit (ECU).
+
+
+
+Ammonia is corrosive to certain materials, including copper, zinc, and their alloys, so the team also performed a series of tests to identify which parts would need to be replaced during a fuel conversion, immersing fuel injectors, pump, tank, and other parts and sealants in a tank of liquid ammonia.
+
+Youngmin Woo from KIER presented initial engine test results, as well as conclusions from the corrosion tests [PDF], at the annual NH3 Fuel Conference in San Antonio, Texas, in October 2012, before the system had been installed in the vehicle.
+
+Korean news agency Yonhap was the first to report on the AmVeh, in May 2013:
+
+“Ammonia can be used to fuel any conventional vehicle with only a few modifications to the vehicle’s existing system. According to the Ministry of Science, ICT and Future Planning … if the technology was applied to only 20 percent of all vehicles in the country, it would cut the country’s greenhouse gas emissions by over 10 million tons, or 15 percent of the total [transport sector emissions], per year. The only existing difficulty is the relatively high price of ammonia, KIER noted, but said its developers were already coming up with ways to produce ammonia through faster and cheaper means.”
+
+Sustainable Production of Ammonia Fuel
+
+This “faster and cheaper” ammonia synthesis process, in development at KIER, was the subject of another presentation at the 2012 NH3 Fuel Conference, given by Jong Hoon Joo. As described in the presentation [PDF], the process involves passing water vapor and nitrogen through a solid oxide electrolysis cell, which is conceptually similar to a fuel cell running in reverse.
+
+The attraction of this emerging ammonia synthesis method is that it does not consume hydrogen. The most expensive part of traditional ammonia synthesis is the production of hydrogen, whether through electrolysis of water or reformation of fossil fuels, like natural gas or coal – a process that emits ~2 tons of carbon dioxide for every ton of ammonia produced. If this new electrochemical process were powered by renewable energy, it would enable completely sustainable production of carbon free fuel on a potentially massive scale.
+
+South Korea: Policy, Economics, and Commercial Opportunity
+
+South Korea is now preparing to launch its emissions trading scheme in 2015. The scheme’s current design, which is still in development and may yet be altered, aims to reduce emissions to 30% below “business as usual” levels by 2020. It sets a penalty price on excess emissions – which may become the default cost of carbon in Korea – at $90 per ton carbon dioxide equivalent (CO2e). This would be the highest carbon price in the world, so far.
+
+However, according to a white paper published by Bloomberg New Energy Finance in cooperation with Ernst and Young [press release, full report], power and energy-intensive industries in Korea may not be able to reduce their emissions at this scale and speed. On top of that, there may not be enough clean energy and sequestration projects underway to supply the market with the carbon offsets it will require. Bloomberg analysts pointed out that therefore, to meet their 2020 target, Korean policymakers may need to cut emissions by an additional 50 million tons CO2e per year. The white paper concludes that, because 70% of the country’s direct emissions are covered under the proposed trading scheme, but not the transport sector, “the government may decide to place a greater burden of emission reductions onto the non-traded sectors such as transport fuels.”
+
+The AmVeh’s promise, to reduce annual transport sector emissions by 10 million tons CO2 if installed across 20% of the fleet, goes 20% of the way toward solving this problem. And the Korean Emissions Trading Scheme would go a long way toward creating an attractive market for this technology. The developers at KIER are now looking for partners, to help commercialize the AmVeh and start working towards developing a market for ammonia vehicle conversions.

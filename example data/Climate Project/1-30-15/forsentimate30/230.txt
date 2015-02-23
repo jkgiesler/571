@@ -1,0 +1,103 @@
+Forget Climategate: this 'global warming' scandal is much bigger
+230
+http://www.breitbart.com/london/2015/01/30/forget-climategate-this-global-warming-scandal-is-much-bigger/
+
+How can we believe in ‘global warming’ when the temperature records providing the ‘evidence’ for that warming cannot be trusted?
+
+It’s a big question – and one which many people, even on the sceptical side of the argument, are reluctant to ask.
+
+Here, for example, is one of the two most prominent English sceptics in the House of Lords, Matt Ridley outlining his own position.
+
+I am a climate lukewarmer. That means I think recent global warming is real, mostly man-made and will continue but I no longer think it is likely to be dangerous and I think its slow and erratic progress so far is what we should expect in the future. That last year was the warmest yet, in some data sets, but only by a smidgen more than 2005, is precisely in line with such lukewarm thinking.
+
+Though I’ve no reason to doubt the sincerity of Ridley’s position, I can also see plenty of reasons why it would be a politically convenient line for him to take. The same applies to Lord Lawson’s position on climate change and Bjorn Lomborg’s position on climate change. All of these distinguished figures on the mildly sceptical side of the argument have taken the view that the figures provided by the various scientific institutions, such as the Climatic Research Unit at the University of East Anglia and NASA GISS, as relayed to us in the assessment reports of the Intergovernmental Panel on Climate Change, are broadly trustworthy. Their beef is not so much with “the science” as it is with the political hysteria and green propagandising that has accompanied that science, as well as with the counterproductive policies resulting from it.
+
+To repeat, these may be earnest, heartfelt positions but they are also politically expedient ones. What it means is that in debates Lomborg and Lords Ridley and Lawson don’t come across as too “out there.” It means that they cannot, by any reasonable stretch, be tarred as “deniers”. Not only are they not denying the existence in “global warming” but they’re not even that far off from where the mainstream “consensus” is.
+
+This all seems to me tactically wise. If their positions weren’t so eminently “reasonable” they would be invited to speak at organisations like the BBC even less often than they are already.
+
+What it does, unfortunately, mean, though, is that those of us on the sceptical side of the debate who want to push the argument a bit further are put in danger of being made to look like extremists. Crazed conspiracy theorists even.
+
+So before I go into technical detail about why the temperature records are suspect, let me provide an analogy which ought to make it perfectly clear to any neutral parties reading this why the problem I’m about to describe ought not to be consigned to the realms of crackpottery.
+
+Suppose say, that for the last 100 years my family have been maintaining a weather station at the bottom of our garden, diligently recording the temperatures day by day, and that what these records show is this: that in the 1930s it was jolly hot – even hotter than in the 1980s; that since the 1940s it has been cooling.
+
+What conclusions would you draw from this hard evidence?
+
+Well the obvious one, I imagine, is that the dramatic Twentieth Century warming that people like Al Gore have been banging on about is a crock. At least according to this particular weather station it is.
+
+Now how would you feel if you went and took these temperature records along to one of the world’s leading global warming experts – say Gavin Schmidt at NASA or Phil Jones at CRU or Michael Mann at Penn State – and they studied your records for a moment and said: “This isn’t right.” What if they then crossed out all your temperature measurements, did a few calculations on the back of an envelope, and scribbled in their amendments? And you studied those adjustments and you realised, to your astonishment, that the new, pretend temperature measurements told an entirely different story from the original, real temperature measurements: that where before your records showed a cooling since the 1940s they now showed a warming trend.
+
+You’d be gobsmacked, would you not?
+
+Yet, incredible though it may seem, the scenario I’ve just described is more or less exactly analogous to what has happened to the raw data from weather stations all over the world.
+
+Take the ones in Paraguay – a part of the world which contributed heavily to NASA GISS’s recent narrative about 2014 having been the “hottest year on record.”
+
+If it wasn’t for the diligence of amateur investigators like retired accountant Paul Homewood, probably no one would care, not even Paraguayans, what has been going on with the Paraguayan temperature records. But Homewood has done his homework and here, revealed at his site Notalotofpeopleknowthat, is what he found.
+
+He began by examining Paraguay’s only three genuinely rural weather stations. (ie the ones least likely to have had their readings affected over the years by urban development.)
+
+All three – at least in the versions used by NASA GISS for their “hottest year on record” claim – show a “clear and steady” upward (warming) trend since the 1950s, with 2014 shown as the hottest year at one of the sites, Puerto Casado.
+
+Judging by this chart all is clear: it’s getting hotter in Paraguay, just like it is everywhere else in the world.
+
+http://data.giss.nasa.gov/cgi-bin/gistemp/show_station.cgi?id=308860860000&dt=1&ds=14
+
+But wait. How did the Puerto Casado chart look before the temperature data was adjusted? Rather different as you see here:
+
+http://data.giss.nasa.gov/cgi-bin/gistemp/show_station.cgi?id=308860860004&dt=1&ds=1
+
+Perhaps, though, Puerto Casada was an anomaly?
+
+Nope. Similar adjustments, in the same direction, appear to have been made to the two other rural sites.
+
+Ah. But there was surely some innocent explanation for this, Homewood surmised. Perhaps the rural stations were wildly out of kilter with the urban stations and had been ‘homogenised’ accordingly.
+
+Except, guess what?
+
+OK. So why am I making you look at all these charts? Because seeing is believing.
+
+Without those charts, it would be all too easy for you to go: “Yeah well he’s not a scientist so he probably doesn’t know what he’s talking about” or “he’s exaggerating” or “he has got the wrong end of the stick.”
+
+So, judge for yourself. These are the actual before and after charts, reproduced from NASA’s own website.
+
+Now the next thing the doubters among you will be thinking is: “Well these are reputable scientific institutions. They wouldn’t be making these adjustments without good reason.”
+
+And I’d agree with you. That’s certainly what one would reasonably hope and expect.
+
+But the odd thing is that no satisfactory explanation has been forthcoming from any of the institutions which have been making these adjustments. Not from NASA GISS. Nor from NOAA, which maintains the dataset known as the Global Historical Climate Network. Nor from the Climatic Research Unit at the University of East Anglia which, with the Met Office, maintains the third of the world’s three surface data records, known as Hadcrut.
+
+About as close as we’ve got to an attempted justification is this piece by Zeke Hausfather – Understanding Adjustments To Temperature Data – at the website of lukewarmer Judith Curry.
+
+The explanations he offers for the basic principles of temperature adjustments are plausible enough. They include things like the Urban Heat Island effect; weather stations which have moved locations; weather stations which appear to give false readings which need to be adjusted in line with their neighbours; changes in measuring equipment; changes in the time of day measurements are taken (formerly in the afternoon, now more usually in the morning,) and so on.
+
+In other words it’s a case of “move along. Nothing to see here” and “trust the Experts. They know best.”
+
+The problem with Hausfather’s explanations is that though they’re fine on the theory they don’t seem to bear much relation to the actuality of the adjustments that have been made around the world.
+
+Take, for example, the Urban Heat Island effect. This is where weather stations, over time, have become surrounded by buildings or other heat sources and which therefore record hotter temperatures than they used to. You’d expect, as a result of this, that recent (ie late 20th century) raw temperature readings from urban areas would be adjusted downwards in order to make them more accurate. Rarely though, is this the case. More usually, the adjustments appear to have been made in the other direction, so that the late twentieth century readings are made hotter still – while the early twentieth century readings have been adjusted to make them look cooler.
+
+And this isn’t just an issue with the adjustments to the Paraguay stations by the way. It has happened all over the world.
+
+As Paul Homewood reminds us here, it has been happening everywhere from Iceland, Greenland and Russia to Alice Springs in Australia. Also, it has been reported on, at least in the climate sceptical blogosphere, for quite some time. Among the first to spot the problem was Steve McIntyre who back in 2007 observed the curious fact that where NASA’s James Hansen had once acknowledged that the 1930s was the hottest decade in the US, he subsequently amended it – with the help of some conveniently adjusted records – to the 1990s. Anthony Watts of Watts Up With That? has been reporting on this for years; as have bloggers including Steven Goddard and journalists like Christopher Booker.
+
+So why has the scandal never broken into the mainstream? Why has it never made the same splash Climategate did (not, mind you, that Climategate ever got much play in the MSM either)?
+
+Well, one reason, I guess is that the alarmist establishment is pretty good at fobbing off criticisms with seemingly plausible scientific answers. (See Hausfather above).
+
+It takes time and effort to counter these excuses: time and effort which few people can afford.
+
+As an example of the kind of superficially plausible excuse-making I mean, here is climate scientist Ed Hawkins claiming that the reason for the amendments to the raw data at Puerto Casado is that the weather station has been moved.
+
+Well, fair enough, you’d think – and take his word for it. But blogger Shub Niggurath wouldn’t and has demolished this excuse by pointing out that there is no evidence for the weather station having moved. It’s just a handy excuse, that’s all. And in any case, it doesn’t explain why similar changes were made to the records of the other stations: were they all moved too?
+
+But the bigger reason, of course, is this: if you make the case that all (or at least a good many) of the world’s surface temperature data records have been wantonly tampered with to the point where they are effectively useless, you are more or less accusing some of the world’s most distinguished (and lavishly funded) scientific institutions of, at best, culpable incompetence and, at worst, outright fraud.
+
+Also, to accuse so many temperature gatekeepers of getting the details so badly wrong, you are also implying that there must be some kind of conspiracy involved, even if it is only a conspiracy of silence to cover up what a tremendous cock up they’ve made of their work over a period of years.
+
+Finally, you are suggesting that everything we have been told about dramatic, unprecedented, man-made global warming by the alarmist establishment over the last three decades may be based on a massive lie. Think about it. The satellite records (which show no global warming for the last 18 years) only go back to the late Seventies. So for the main thesis about global warming, the scientists and policymakers who have been pushing the alarmist narrative are largely dependent on the surface temperature data (which, of course, goes back much earlier).
+
+But if this data cannot be trusted, all bets are off. I’m not saying there has been no 2oth century global warming, I think there probably has been, but I don’t honestly know. The worrying part, though, is that neither – it would appear – do the scientists.
+
+Unless, of course, they can come up with an excuse to explain it all. But I’m not holding my breath.

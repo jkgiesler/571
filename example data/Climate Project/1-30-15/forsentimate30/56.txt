@@ -1,0 +1,153 @@
+Solar Market Pathways
+56
+http://www.energy.gov/eere/sunshot/solar-market-pathways
+
+The Solar Market Pathways program supports 15 SunShot projects that are advancing solar deployment across the United States. These projects take a variety of approaches to develop actionable strategic plans to expand solar electricity use for residential, community, and commercial properties. Awardees use a wide range of tools, including special financing mechanisms like commercial property assessed clean energy, and the integration of solar energy generation in local emergency response plans.
+
+Ultimately, the case studies and lessons learned from the Solar Market Pathways projects will provide examples that can be replicated—an important step towards making solar deployment faster, easier, and cheaper across the country, which is a major goal of the SunShot Initiative. The awardees include not-for-profits, utilities, industry associations, universities, and state and local jurisdictions in California, Illinois, Minnesota, New York, Utah, Virginia, Vermont, Wisconsin and Washington, D.C.
+
+Read the press releases announcing the Solar Market Pathways funding opportunity and awards, and learn more about SunShot’s other soft costs funding programs.
+
+AWARDEES
+
+CALIFORNIA CENTER FOR SUSTAINABLE ENERGY
+
+Location : San Diego, CA
+
+: San Diego, CA SunShot Award Amount : $712,269
+
+: $712,269 Awardee Cost Share : $179,535
+
+: $179,535 Project Description: The Center for Sustainable Energy (CSE) is expanding the awareness, effectiveness and use of virtual net metering in California and beyond. Currently, the ability to expand photovoltaic adoption outside of traditional commercial or single family rooftop systems has been a challenging proposition for solar markets throughout California and elsewhere. Virtual net metering is a system that enables a multi-meter property owner to allocate a solar system's energy credits to other tenants. CSE aims to expand the application of virtual net metering to multifamily and multi-metered homes and facilities.
+
+CITY AND COUNTY OF SAN FRANCISCO-DEPARTMENT OF THE ENVIRONMENT
+
+Location : San Francisco, CA
+
+: San Francisco, CA SunShot Award Amount : $1,321,200
+
+: $1,321,200 Awardee Cost Share : $288,971
+
+: $288,971 Project Description: San Francisco’s “Solar+Storage for Resiliency” project is expanding the solar market by serving as a national model for integrating solar and energy storage into existing disaster preparedness plans. The project team is working closely with stakeholders to overcome regulatory, financial, and technical barriers and create a roadmap for deploying solar with storage for resilience both locally and nationally.
+
+CITY UNIVERSITY OF NEW YORK
+
+Location : New York, NY
+
+: New York, NY SunShot Award Amount : $859,720
+
+: $859,720 Awardee Cost Share : $314,669
+
+: $314,669 Project Description: The NYSolar Smart Distributed Generation (DG) Hub - Resilient Solar Project was developed by the City University of New York (CUNY), in partnership with the National Renewable Energy Laboratory and Meister Consulting Group. The project is supported by the New York State Energy Research and Development Authority, the New York Power Authority, and more than 20 stakeholder groups committed to the project, including the NYC Mayor’s Office, Consolidated Edison, National Grid, the Electric Power Research Institute, General Electric, SMA, Solar City. The three-year project is creating a roadmap for the integration and tracking of resilient solar systems, which can supply emergency power and provide energy storage, as well as conducting analysis for deploying resilient PV systems on designated critical infrastructure facilities. Additionally, the Smart DG Hub is developing a calculator that will help capture the full spectrum of value streams for solar systems with battery storage, such as supplying emergency power, peak shaving, and load shifting capabilities, consequently providing decision makers with the necessary tools to make educated investments.
+
+COOK COUNTY DEPARTMENT OF ENVIRONMENTAL CONTROL
+
+Location : Chicago, IL
+
+: Chicago, IL SunShot Award Amount: $1,238,308
+
+$1,238,308 Awardee Cost Share : $424,898
+
+: $424,898 Project Description: Cook County Department of Environmental Control’s project identifies and establishes models for community solar and eliminates barriers to implementation, by assessing the current community solar marketplace in Northeast Illinois and identifying the potential market for community solar (e.g., suitable available sites/supply, and customer base/demand). The project analyzes the economics of different ownership structures (such as independent private entity, utility-sponsored, or group of subscribers) and then identifies the structural, regulatory, and policy barriers to community solar and proposes approaches to eliminate those barriers. Detailed analysis of pilot case studies will create models and lessons learned that can be replicated across the region to help other projects in the region succeed.
+
+COUNCIL OF INDEPENDENT COLLEGES IN VIRGINIA INC.
+
+Location : Bedford, VA
+
+: Bedford, VA SunShot Award Amount : $807,563
+
+: $807,563 Awardee Cost Share : $409,357
+
+: $409,357 Project Description: The Council of Independent Colleges is leading a program to boost Virginia’s solar market by partnering with 15 of its member colleges and their hometown communities. The project team is developing a collaborative and replicable approach that will guide campuses through the process of preparing for and purchasing solar photovoltaic installation—reducing operating costs and demonstrating associated economic and environmental benefits.
+
+ECOLIBRIUM3
+
+Location : Duluth, MN
+
+: Duluth, MN SunShot Award Amount : $209,005
+
+: $209,005 Awardee Cost Share : $52,266
+
+: $52,266 Project Description: Ecolibrium3’s “Local Energy Matters” project is working with state and local stakeholders to develop residential rooftop, community, and commercial solar projects in Duluth, Minn., further developing the local market. The project focuses on reducing soft costs n through community policy implementation and development of simplified processes for permitting and interconnection. Demonstration projects that can be scaled in the final year of the project will include integrated design, construction, and financing packages. Over three years, one megawatt of capacity will be installed with a cost reduction goal of 50%.
+
+EXTENSIBLE ENERGY, LLC
+
+Location : Lafayette, CA
+
+: Lafayette, CA SunShot Award Amount : $800,000
+
+: $800,000 Awardee Cost Share : $200,000
+
+: $200,000 Project Description: Under the “High-Value Integrated Community Solar Project,” the Sacramento Municipal Utility District, Public Service Company of New Mexico (PNM), and other utilities are participating in the market-based development of a new business model for community solar. The project increases the scale, reach, and value of utility-based community solar programs by using strategic solar technologies and design, by systematically prioritizing local sites and integrating companion measures, such as demand-response and thermal or battery storage. Such measures can directly address solar variability, so that costly distribution-engineering solutions and regional-level ancillary services can be minimized. The core business model will be flexible enough to work in different market and regulatory situations, and offer both residential and commercial customers a compelling new solar option. The project team is led by the Bay Area energy consulting and analytics firm Extensible Energy, LLC, and includes Cliburn and Associates, Navigant Consulting, and Olivine, Inc.
+
+INSTITUTE FOR SUSTAINABLE COMMUNITIES
+
+Location : Montpelier, VT
+
+: Montpelier, VT SunShot Award Amount : $1,872,845
+
+: $1,872,845 Awardee Cost Share : $311,129
+
+: $311,129 Project Description: As the National Coordinator for the SunShot Initiative’s Solar Market Pathways program, the Institute for Sustainable Communities (ISC) will create a learning network that enables communications, coordination and shared learning across the other 14 lead organizations. ISC will provide targeted technical assistance to help awardees develop high-caliber, technically sound, broadly supported plans, models and strategies. ISC will also identify and disseminate best practices and lessons learned from the Solar Market Pathways program partners’ experiences to advance solar deployment throughout the U.S.
+
+MIDWEST RENEWABLE ENERGY ASSOCIATION
+
+Location : Custer, WI
+
+: Custer, WI SunShot Award Amount : $1,025,400
+
+: $1,025,400 Awardee Cost Share : $258,900
+
+: $258,900 Project Description: U.S. colleges and universities are currently in a position to make substantial solar project investments both on and off campus. To facilitate these investments, the Midwest Renewable Energy Association is working with university stakeholders at four universities to create solar investment proposals for consideration by university governance boards. This campus stakeholder engagement is led by student solar deployment teams and builds off of past program success with the U.S. Department of Energy Solar Decathlon and similar student-led projects. This effort showcases the potential of university solar photovoltaic (PV) investments, advances favorable board policies to govern PV investments, and provides a roadmap for universities across the country to deploy PV—advancing their sustainability goals.
+
+PACE ENERGY AND CLIMATE CENTER
+
+Location : White Plains, NY
+
+: White Plains, NY SunShot Award Amount : $599,908
+
+: $599,908 Awardee Cost Share : $150,000
+
+: $150,000 Project Description: The Pace Energy and Climate Center, in concert with a regional coalition of solar photovoltaic business associations including Maine, Massachusetts, Vermont, New Hampshire, New York, Connecticut, New Jersey, Rhode Island, and Pennsylvania, are working to create a thriving and efficient regional market for solar photovoltaic (PV) technology. This project establishes the coalition, identifies and engages with critical market policy initiatives, and communicates best practices to a wide range of audiences, all with the primary mission of harmonizing northeastern state solar PV market policies.
+
+SALT LAKE CITY CORPORATION
+
+Location : Salt Lake City, UT
+
+: Salt Lake City, UT SunShot Award Amount : $600,000
+
+: $600,000 Awardee Cost Share : $164,645
+
+: $164,645 Project Description: Salt Lake City and its partners are developing a comprehensive long-term solar deployment strategy, conducting an analysis of the value of rooftop solar, advancing a statewide solar financing program, and integrating solar in emergency preparedness planning. These program strategies ensure continued solar price reductions, increased market penetration, and improved market certainty for Utah’s solar industry and consumers. The “Wasatch Solar Project” will propel Utah’s solar market toward a long-term goal of installing 1,075 megawatts of solar by 2024.
+
+SOLAR ELECTRIC POWER ASSOCIATION
+
+Location : Washington, DC
+
+: Washington, DC SunShot Award Amount : $705,830
+
+: $705,830 Awardee Cost Share : $193,176
+
+: $193,176 Project Description: The Solar Electric Power Association (SEPA) and its partners are conducting comprehensive and collaborative research on the intersection of community solar business models and consumer demographics to develop more standardized program design options. By producing a range of more standardized, streamlined and cost-effective business models that can be easily localized for different regions across the country, SEPA will spark a growth of community solar programs more closely aligned with the needs and interests of consumers and other stakeholders.
+
+THE SOLAR FOUNDATION
+
+Location : Washington, DC
+
+: Washington, DC SunShot Award Amount : $900,034
+
+: $900,034 Awardee Cost Share : $315,260
+
+: $315,260 Project Description: The Solar Foundation, in partnership with Urban Ingenuity and Clean Energy Solutions, Inc., is working with state and local governments across the country to make Property Assessed Clean Energy (PACE) financing a reality for tax-exempt organizations that have previously been unable to use this financing method –“CPACE+” (Commercial Property Assessed Clean Energy for Tax-Exempt and Public Entities). This type of financing will allow affordable housing units, schools, and nonprofit organizations to receive a loan for solar energy installations, and pay back these loans through a special property tax assessment.
+
+VERMONT ENERGY INVESTMENT CORPORATION
+
+Location : Burlington, VT
+
+: Burlington, VT SunShot Award Amount : $533,361
+
+: $533,361 Awardee Cost Share : $141,456
+
+: $141,456 Project Description: The Vermont Solar Pathways Project is conducting a broad stakeholder engagement process involving scenario analyses to examine how solar and distributed generation will contribute to meeting Vermont’s Comprehensive Energy Plan target of providing 90% of the state’s energy from renewable resources by 2050. The project will produce a consensus-based document indicating how high levels of solar deployment over the next 5 and 10 years are possible, and how an advanced solar market will interact with and will be enabled by development across seven strategic areas, including: storage, fuel switching for transportation and space conditioning, and reaching low- and moderate-income market segments.
+
+VIRGINIA ELECTRIC AND POWER COMPANY/DOMINION VIRGINIA

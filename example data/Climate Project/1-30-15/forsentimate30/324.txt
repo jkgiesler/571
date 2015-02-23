@@ -1,0 +1,27 @@
+No, 2014 wasn’t the ‘warmest year in history’
+324
+http://www.bostonglobe.com/opinion/2015/01/29/global-temperature-what-does-that-even-mean/YBuZQuXqAB5dJYznrRyVKI/story.html
+
+Unless you’ve spent the last few weeks in solitary meditation on a remote island, you couldn’t miss the wave of media stories breathlessly proclaiming that 2014 was the hottest year in recorded history. As usual, the coverage was laced with alarm about the menace posed by climate change, and with disapproval of skeptics who decline to join in the general panic.
+
+Among those seizing on the news to make a political point was President Obama, who used his State of the Union address to voice disdain for those who don’t share his view. “I’ve heard some folks try to dodge the evidence by saying they’re not scientists,” he scoffed. “Well, I’m not a scientist, either. But. . . I know a lot of really good scientists at NASA, and NOAA, and at our major universities.”
+
+Continue reading below
+
+Well, I’m also not a scientist. But I do know that what NASA’s Goddard Institute for Space Studies and NOAA’s National Climatic Data Center actually reported was rather less categorical than what the news accounts — or the White House — might lead you to believe. As both government agencies made clear in their briefing materials, the likelihood that 2014 was the planet’s warmest year is far from a slam-dunk. Indeed, the probability that 2014 set a record is not 99 percent or 95 percent, but less than 50 percent. NOAA’s number-crunchers put the probability at 48 percent; NASA’s analysis came in at 38 percent. The agencies rationalize their attention-getting headline on the grounds that the probabilities were even lower for other candidates for the label of “hottest year in history.”
+
+But other compilers of the standard global temperature datasets have been more circumspect. The report from the UK Met Office noted only that “2014 was one of the warmest years in a record dating back to 1850.” Given the size of the margin of error, it acknowledged, “It’s not possible to definitively say which of several recent years was the warmest.” Similarly, the Berkeley Earth summary of its 2014 calculations explained that last year’s bottom line was statistically identical to other recent years. “Therefore,” it noted candidly, “it is impossible to conclude from our analysis which of 2014, 2010, or 2005 was actually the warmest year.”
+
+All of which reasonably leads to the conclusion not that the planet has been relentlessly warming, but that the warming trend that peaked at the end of the 1990s has neither resumed nor reversed. Global warming has more or less been on hold since the turn of the 21st century. That hiatus poses something of an inconvenient truth to those who believe that anthropogenic carbon-dioxide is the key driver of climate change, since CO2 emissions have continued without letup.
+
+You don’t have to be a scientist to realize that climate is complicated and hard to get right. Climate models have so far been unable to accurately predict changes in global temperature. Experts didn’t foresee the global cooling that began in the 1940s and didn’t anticipate the warming cycle that started in the late 1970s. Climate science is still in its infancy, and it would be folly to treat any single explanation for changes in global temperatures as impervious to challenge or skepticism.
+
+In fact, the very idea of a “global temperature” is hard to make sense of. How can an entire planet, with its multifarious systems, be said to have a temperature, or even an average temperature?
+
+Averaging is a familiar and useful concept that we use in a myriad of contexts. Average household income, average life expectancy, average weight of airline passengers, average number of earned runs given up by a pitcher, average daily temperature in Waikiki in April — each is a comprehensible and meaningful statistic. But as the authors of a provocative 2007 paper in the Journal of Non-Equilibrium Thermodynamics explain, there are certain kinds of variables that lose all meaning if they are averaged. For example, exchange rates are extremely useful when comparing two currencies. The notion of a “global exchange rate,” however, would be absurd.
+
+Temperatures on the earth are in constant flux. They change with latitude, with time of day, with season, with weather; they vary from ocean depths to atmospheric heights, from the equator to the poles. Even assuming that the necessary raw data could be properly gathered, mathematicians must choose among multiple averaging techniques, which can yield flatly contradictory results.
+
+Physically, there is no such thing as the “global temperature trend,” the authors conclude. Hence, “ranking this or that year as the ‘warmest of the millennium’ is not possible, since other averages will give other results with no grounds for choosing among them.”
+
+As headline fodder, “warmest year ever” may be irresistible. As an unassailable reality on which critical public policy questions should turn? Be skeptical.

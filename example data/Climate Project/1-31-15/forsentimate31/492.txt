@@ -1,0 +1,69 @@
+Is Carbon Capture and Storage a Good Thing? – Sustainable Energy for the Future
+492
+https://sustainableenergyforthefuture.wordpress.com/2015/01/31/is-carbon-capture-and-storage-a-good-thing/
+
+The Debate
+
+Green Peace calls carbon capture and storage green washing. The International Energy Agency says the technology is a critical tool in developing a low carbon energy system. Opponents argue that investment in carbon capture and storage allows the fossil fuel industry to continue ‘business as usual’, further cementing global dependence on fossil fuels through infrastructure investments that cannot be easily undone. Proponents say the technology is needed to mitigate the impact of emissions from the burning of coal and natural gas; that we will continue to burn these fuels because our electricity grid does not yet have the built-in storage needed to handle the intermittent nature of a 100% renewable electricity system. Who is right? Tell me what you think or read below to see what I think!
+
+What is Carbon Capture and Storage?
+
+Carbon capture and storage is the capture of carbon dioxide from a large point source of emissions like a coal or natural gas fired power plant, or an industrial facility. For all us nerds out there, this link provides a good explanation about mechanisms used to capture carbon dioxide from the smokestack. The carbon dioxide is then stored in a storage reservoir, most commonly a porous geologic formation deep underground or beneath the seafloor. There is typically an impervious cap rock overtop of the porous formation to prevent seepage of the carbon dioxide back up to the surface.
+
+Does it Work?
+
+Well we don’t know that it will be stored effectively in every case, but so far the technology shows a lot of promise. There are now 19 carbon capture utilization and storage projects in the operation and implementation phases. Because of these test facilities, we know how to capture the carbon dioxide effectively. In terms of storage, we have a good idea how to store substances in the subsurface; we have been storing all kinds of substances beneath the surface for decades as a way to dispose of them safely. Hydrogen sulphide, a substance far more harmful than carbon dioxide, is one example (see this world bank report for a description: http://siteresources.worldbank.org/EXTGGFR/Resources/578068-1258067586081/FlaringQA.pdf ).
+
+Is it Safe?
+
+Probably, but scientists are not sure. There are some concerns about the health risks associated with amines, the dominant carbon capture technology. These risks were investigated in a 2009 Norwegian report that found that amine emissions were likely to be within the health and safety levels already set in Norway, but that more study was needed to rule out health and environmental risks of compounds that could be formed as a result of the release of amines to the atmosphere. In 2013, another Norwegian team did further dispersion modelling and concluded that health risks associated with amines in the capture process were low. You can find their report here: http://www.tcmda.com/Global/Dokumenter/GjernesHelgesenMaree-sent.pdf
+
+There is also a risk that injected carbon dioxide may seep back up to the surface, especially through an improperly capped well, or other conduit that links the storage reservoir to the atmosphere. If a major seepage event occurs (which is unlikely), it could asphyxiate people or livestock in the vicinity. This is one reason that proper site selection and monitoring is extremely important. Once injected, the carbon dioxide takes about 1000 years to dissolve and become ‘trapped’ in a way that there is no risk of seepage from the subsurface to the surface. There is still a lot of debate as to how long the monitoring period should be. Some experts suggest a 50 year monitoring period, others think it should be longer. The greatest risk of seepage is actually during injection of the carbon dioxide because that is when the reservoir is under the most pressure.
+
+Is Carbon Capture and Storage Economically Viable?
+
+Carbon capture and storage is projected to be cost competitive with other low-carbon technologies:
+
+Levelized Cost for Facilities Entering the Market in 2018 (in 2011 $):
+
+What are the Limitations of Carbon Capture and Storage?
+
+It’s expensive, the capture process is energy intensive, and the capture source needs to be close to the geologic formation where you want to inject the carbon dioxide. Monitoring is needed to make sure that the carbon dioxide is staying in the intended aquifer.
+
+Is Carbon Capture and Storage Greenwashing or an Important Tool in Decarbonizing our Energy Supply?
+
+This is where the debate gets complicated; there are so many pieces to this puzzle. Does promotion of carbon capture and storage…
+
+…increase our dependence on fossil fuels?
+
+…provide a way for a dirty industry to greenwash its operations and be free of public scrutiny?
+
+…decrease emissions from industries that are going to continue to burn fossil fuels whether we implement carbon capture and storage or not?
+
+…need to be on the table for any type of meaningful international climate agreement?
+
+Let’s start with the first question: does promotion or increased implementation of carbon capture and storage increase our dependence on fossil fuels?
+
+First of all, let’s be clear: we are increasing our dependence on fossil fuels, and coal in particular, without the help of carbon capture and storage. These are the latest projections from global energy consumption by fuel type from the Energy Information Administration. You can see that coal, liquids and natural gas will continue to form the majority of our energy supply until 2040:
+
+World Energy Consumption by Fuel Type in Quadrillion Btus.
+
+In 2012 alone, 1200 coal fired power plants were in the works, most of which did not incorporate carbon capture and storage technology. The world will be stuck with the carbon-intensive emissions from these facilities for about 50 years, the life of these power plants. Investment in coal-fired infrastructure is moving forward whether we like it or not, and right now, the electricity generated from these facilities is a high-carbon fuel source. If we make the investments in carbon capture and storage, and create a mechanism of technology transfer to developing countries, it may not have to be.
+
+Is carbon capture and storage a way for industry to greenwash its operations and continue to pollute without much public scrutiny?
+
+This greenwashing argument does hold some weight. Most carbon capture and storage projects are actually enhanced oil or natural gas recovery projects, which means that the carbon dioxide is being injected into ground to get out any sticky bits of oil or natural gas that were hard to access using conventional technology. The fact that some of the carbon dioxide is lost or ‘stored’ beneath the surface is just a secondary benefit. These projects do help the fossil fuel industry look ‘greener’, while still providing an economic benefit to their operations. Still, though there may be a limited supply of oil, and one can argue that perhaps without these enhanced oil or natural gas recovery projects, some of that oil may have stayed in the ground, we certainly aren’t at peak natural gas, so the market would find other opportunities to meet demand for the latter fuel source. Furthermore, there could be other substances that could be used instead of carbon dioxide to get at the hard to reach oil, so another type of enhanced oil recovery may have moved forward anyway.
+
+Don’t buy my what I am saying? Even if you don’t, let’s say for the sake of argument these enhanced oil/natural gas recovery projects in their current form are just greenwashing by industry to allow them to more or less continue business as usual minus the public scrutiny. I still think these projects will help drive down the cost of capture technology, leading to more cost effective pure carbon capture and storage projects down the road. In the interim, the enhanced oil recovery and natural gas projects, will at least reduce emissions from coal, the most carbon intensive fossil fuel. Think we should just skip this step and move towards 100% renewables? I don’t feel comfortable putting all of our eggs in one basket, especially when I look at what a small piece of the energy picture renewables currently make up (see above).
+
+Does carbon capture and storage decrease emissions from industries that are going to continue to burn fossil fuels whether we implement carbon capture and storage or not?
+
+Yes! We’re already married to fossil fuels. See above graphic! Most estimates included in the 5th Intergovernmental Panel on Climate Change Assessment Report show that carbon capture and storage will lead to decreased emissions from the generation of electricity: http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_summary-for-policymakers.pdf.
+
+Does carbon capture and storage need to be on the table for any type of meaningful international climate agreement?
+
+This, I think may be the strongest argument in support of carbon capture and storage. I think most people would agree that an international climate agreement is important to mitigate the effects of human caused climate change. Historically, Canada and other oil producing nations have been terrible global players in these agreements. This is not likely to change, especially if carbon capture and storage is taken off the table as one of the mitigation options. Almost no elected politician would risk having a negative impact on their country’s economy just to look good on the international stage, even if the future of our climate system is held in the balance. The importance of this tool to give oil producing nations, and developing countries (some of whom count on coal for reliable electricity) an option to reduce emissions without undergoing a major economic transformation, is key to the constructive participation of these players in climate negotiations.
+
+So.. Is Carbon Capture and Storage Greenwashing or an Important Tool in Decarbonizing our Energy Supply?
+
+I have to err on the side that carbon capture and storage is an important tool in decarbonizing our energy supply. Yes, it may allow industry to continue to exploit fossil fuels, while looking ‘greener’ than it actually is, but the benefits of carbon capture and storage outweigh this downside. If implemented with caution to make sure that the operation is safe and the actual act of carbon capture and storage will cause minimal harm to the environment, then its potential to reduce emissions from coal and natural gas fired power plants should not be ignored. Even if I am wrong about the extent of decarbonization benefits that may come from carbon capture and storage projects, the importance of keeping carbon capture and storage as a tool to achieve an international climate agreement with participation from the majority of large emitters is paramount. Keeping carbon carbon capture and storage as a mitigation option for developing countries (with technology transfer and funding to make the projects more affordable) and oil-producing nations is key to constructive participation on the part of these nations in climate talks in Paris and beyond.

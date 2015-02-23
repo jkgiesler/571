@@ -1,0 +1,19 @@
+Farming overtakes deforestation and land use as a driver of climate change
+623
+http://www.fcrn.org.uk/research-library/agriculture/climate-change/farming-overtakes-deforestation-and-land-use-driver-clim
+
+This new study finds that GHG emissions from growing crops and raising livestock are now higher than from deforestation and land use change. It combines three global datasets of greenhouse gas emissions for the 'Agriculture, Forestry and Other Land Uses' (AFOLU) sector. It includes emissions from different sectors and human activities such as deforestation, clearing and burning biomass, and from raising and feeding livestock.
+
+It shows a trend where the emissions of the AFOLU sector as a whole are falling, while emissions from agriculture are still on the rise.
+
+
+
+Abstract
+
+We refine the information available through the IPCC AR5 with regards to recent trends in global GHG emissions from agriculture, forestry and other land uses (AFOLU), including global emissions updates to 2012. By using all three available AFOLU datasets employed for analysis in the IPCC AR5, rather than just one as done in the IPCC AR5 WGIII Summary for Policy Makers, our analyses point to a down-revision of global AFOLU shares of total anthropogenic emissions, while providing important additional information on sub-sectoral trends. Our findings confirm that the share of AFOLU emissions to the anthropogenic total declined over time. They indicate a decadal average of 28.7±1.5% in the 1990s, 23.6±2.1% in the 2000s, and an annual value of 21.2±1.5% in 2010. The IPCC AR5 had indicated a 24% share in 2010. In contrast to previous decades, when emissions from land use (land use, land use change and forestry, including deforestation) were significantly larger than those from agriculture (crop and livestock production), in 2010 agriculture was the larger component, contributing 11.2±0.4% of total GHG emissions, compared to 10.0±1.2% of the land use sector. Deforestation was responsible for only 8% of total anthropogenic emissions in 2010, compared to 12% in the 1990s. Since 2010, the last year assessed by the IPCC AR5, new FAO estimates indicate that land use emissions have remained stable, at about 4.8 Gt CO2eq yr-1 in 2012. Emissions minus removals have also remained stable, at 3.2 Gt CO2eq yr-1 in 2012. By contrast, agriculture emissions have continued to grow, at roughly 1% annually, and remained larger than the land use sector, reaching 5.4 Gt CO2eq yr-1 in 2012. These results are useful to further inform the current climate policy debate on land use, suggesting that as many efforts and resources should be directed to agriculture mitigation in the coming years as they have been devoted to REDD+ in the past decade.
+
+Citation
+
+Francesco N. Tubiello1, Mirella Salvatore, Alessandro F. Ferrara, Simone Rossi, Riccardo Biancalani, Rocio D. Condor Golec, Sandro Federici, Heather Jacobs, Alessandro Flammini, Paolo Prosperi, Paola Cardenas, Josef Schmidhuber, Maria J. Sanz Sanchez, Pete Smith, Jo House, Nalin Srivastava, The Contribution of Agriculture, Forestry and other Land Use activities to Global Warming, 1990-2012: Not as high as in the past, Global Change Biology, DOI: 10.1111/gcb.12865
+
+Read the full paper here and see a blog-post published by carbon brief about it here. You can find other resources related to GHG emissions from land use change in the research library.

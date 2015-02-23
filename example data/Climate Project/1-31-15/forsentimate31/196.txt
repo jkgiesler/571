@@ -1,0 +1,27 @@
+Nuclear Power Prevents More Deaths Than It Causes
+196
+http://cen.acs.org/articles/91/web/2013/04/Nuclear-Power-Prevents-Deaths-Causes.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+cen_latestnews+(Chemical+%26+Engineering+News%3A+Latest+News)&utm_content=Serving+the+chemical%2C+life+sciences+and+laboratory+worlds&utm_term=Chemical+and+Engineering+News
+
+[+]Enlarge Nuclear Future The Crystal River nuclear power plant in Florida is scheduled for decommissioning, and there are no plans to replace it. Credit: Mark Schrope
+
+Using nuclear power in place of fossil-fuel energy sources, such as coal, has prevented some 1.8 million air pollution-related deaths globally and could save millions of more lives in coming decades, concludes a study. The researchers also find that nuclear energy prevents emissions of huge quantities of greenhouse gases. These estimates help make the case that policymakers should continue to rely on and expand nuclear power in place of fossil fuels to mitigate climate change, the authors say (Environ. Sci. Technol., DOI: 10.1021/es3051197).
+
+In the wake of the 2011 Fukushima nuclear disaster in Japan, critics of nuclear power have questioned how heavily the world should rely on the energy source, due to possible risks it poses to the environment and human health.
+
+“I was very disturbed by all the negative and in many cases unfounded hysteria regarding nuclear power after the Fukushima accident,” says report coauthor Pushker A. Kharecha, a climate scientist at NASA’s Goddard Institute for Space Studies, in New York.
+
+Working with Goddard’s James E. Hansen, Kharecha set out to explore the benefits of nuclear power. The pair specifically wanted to look at nuclear power’s advantages over fossil fuels in terms of reducing air pollution and greenhouse gas emissions.
+
+Kharecha was surprised to find no broad studies on preventable deaths that could be attributed to nuclear power’s pollution savings. But he did find data from a 2007 study on the average number of deaths per unit of energy generated with fossil fuels and nuclear power (Lancet, DOI: 10.1016/S0140-6736(07)61253-7). These estimates include deaths related to all aspects of each energy source from mining the necessary natural resources to power generation. For example, the data took into account chronic bronchitis among coal miners and air pollution-related conditions among the public, including lung cancer.
+
+The NASA researchers combined this information with historical energy generation data to estimate how many deaths would have been caused if fossil-fuel burning was used instead of nuclear power generation from 1971 to 2009. They similarly estimated that the use of nuclear power over that time caused 5,000 or so deaths, such as cancer deaths from radiation fallout and worker accidents. Comparing those two estimates, Kharecha and Hansen came up with the 1.8 million figure.
+
+They next estimated the total number of deaths that could be prevented through nuclear power over the next four decades using available estimates of future nuclear use. Replacing all forecasted nuclear power use until 2050 with natural gas would cause an additional 420,000 deaths, whereas swapping it with coal, which produces significantly more pollution than gas, would mean about 7 million additional deaths. The study focused strictly on deaths, not long-term health issues that might shorten lives, and the authors did not attempt to estimate potential deaths tied to climate change.
+
+Finally the pair compared carbon emissions from nuclear power to fossil fuel sources. They calculated that if coal or natural gas power had replaced nuclear energy from 1971 to 2009, the equivalent of an additional 64 gigatons of carbon would have reached the atmosphere. Looking forward, switching out nuclear for coal or natural gas power would lead to the release of 80 to 240 gigatons of additional carbon by 2050.
+
+By comparison, previous climate studies suggest that the total allowable emissions between now and 2050 are about 500 gigatons of carbon. This level of emissions would keep atmospheric CO 2 concentrations around 350 ppm, which would avoid detrimental warming.
+
+Because large-scale implementation of renewable energy options, such as wind or solar, faces significant challenges, the researchers say their results strongly support the case for nuclear as a critical energy source to help stabilize or reduce greenhouse gas concentrations.
+
+Bas van Ruijven, an environmental economist at the National Center for Atmospheric Research, in Boulder, Colo., says the estimates on prevented deaths seem reasonable. But he wonders if the conclusion that nuclear power saves hundreds of times more lives than it claims will convince ardent critics.

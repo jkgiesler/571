@@ -1,0 +1,79 @@
+Climate change mitigation’s best-kept secret
+456
+http://ensia.com/features/climate-change-mitigations-best-kept-secret/
+
+At Blue Spruce Farm in Bridport, Vt., the black-and-white dairy cows are used to the routine. In what looks like a choreographed dance, 1,400 milk cows delicately step over the scrapers that run along the concrete floors and collect their manure, which goes into a huge digester capable of holding 21 days’ worth of waste. Inside, highly flammable methane gas is built up under low pressure and then burned in a 600-kilowatt generator, with the capacity of powering 400 homes.
+
+Blue Spruce doesn’t have to capture the methane, but taking that approach has turned waste into a profit center, bringing in a premium price for energy. Ernie Audet, one of the owners, says “cow power” has become an integral part of the dairy operation. “We wouldn’t run the farm without it,” he says, adding that after six years in place the $1.5 million digester was close to paying for itself. At least a dozen other Vermont farms are also selling cow power to eager buyers.
+
+Stories like this are increasingly important in a warming world because methane is a bad climate actor. Produced by ruminants, energy production and rotting organic material, and the main ingredient in natural gas, methane is a far more powerful greenhouse gas than carbon dioxide. “It packs a heck of a wallop,” says David Doniger, director of the climate and clean air program at the Natural Resources Defense Council.
+
+Although methane comprises only about 14 percent of total climate emissions and has a lifespan in the atmosphere of only about 12 years — compared to roughly 100 years for CO 2 — it is many times more potent than CO 2 in the short term, according to the Intergovernmental Panel on Climate Change. And global methane release has shown significant increases since 2007.
+
+Methane is produced naturally by forest fires, permafrost, wild animals, rivers, lakes and wetlands. But more than half of the methane entering the atmosphere comes from human activities. According to the Global Methane Initiative, anthropogenic sources worldwide include the digestive process of ruminant animals (29 percent), oil and gas systems (20 percent), landfills (11 percent), rice paddies (10 percent, with other agricultural production at 7 percent), wastewater (9 percent), coal mining (6 percent) and manure from farmed animals (4 percent).
+
+The good news is that there are fairly easy ways to dramatically slow our methane emissions — if we make the commitment to do so.
+
+Oil and Gas Production
+
+Methane is a by-product of oil and gas production, and emissions come from widespread leakage and intentional venting when there’s no commercial use for it. Leaks occur at many points as wells are drilled and afterwards including from compressors, drilling rigs, pumps and storage tanks, as well as during delivery to power plants and distribution networks.
+
+But experts say the oil and gas industry could clean up its act with fruit so low-hanging it’s essentially sitting on the ground. A 2014 ICF International report for the Environmental Defense Fund estimates that existing technology could reduce oil and gas methane emissions by 40 percent at a cost of one penny per 1,000 cubic feet. Industrywide, that would require an investment of $2.2 billion, which according to Oil and Gas Journal is less than 1 percent of the industry’s annual capital expenditure in the U.S. What’s more, the EDF report said, making those changes could save consumers $100 million per year if the full value of the recovered gas is realized. A 2014 study by the Natural Resources Defense Council, Clean Air Task Force and Sierra Club said the industry’s methane emissions could be cut even further — by 50 percent.
+
+“Yes, rice paddies and animal husbandry are sources of methane emissions, but the point is often lost that nations are scrambling for new sources of natural gas, and we have a simple solution to reduce leaks by installing new equipment,” says Mark Brownstein, associate vice president and chief counsel of the U.S. Climate and Energy Program at EDF. “It would be an easy thing to do.”
+
+The urgency of reducing these emissions was underscored by the recent discovery of a large methane “hot spot” visible from space and hovering over drilling operations in northern New Mexico. According to The Washington Post, oil and gas operations in the U.S “lose” 8 million metric tons of methane annually.
+
+Despite these industry claims, the international picture is not encouraging.Some oil and gas producers have taken voluntary steps to reduce methane emissions by buying the new equipment recommended in the EDF report, and the American Petroleum Institute claims a 12 percent reduction since 2011. Last September, six international oil companies — including Statoil from Norway, Britain’s BG Group, Italy’s ENI, Mexico’s Pemex and Thailand’s PTT — said they would work with host countries on a major methane-cutting initiative. The U.S.-based global giants were not in the group, though Houston’s Southwestern Energy was included.
+
+Despite these industry claims, the international picture is not encouraging. The United Nations and the World Bank worked together in the 1990s on a project to capture and use the commonly vented methane from Chinese mining operations, but the $10 million spent then would have to be increased dramatically to address the problem just in China, the world’s largest coal producer. And in 2014, a legal push for fracking regulation in the European Union that could have included guidelines on methane leaks was thwarted by Britain.
+
+Because the available data are poor, Rob Jackson, a professor of environmental earth science at Stanford, said, “we don’t know as much as people think” about how much methane is actually emitted by industry. “When scientists really dig in and look,” he says, “the inventories are often higher than they should be, about 50 percent higher. In worst-case scenarios, it’s two to three times higher.” Meanwhile, looking at the production side, the oil and gas industry has been selling the exact counter-narrative — a 2012 American Petroleum Institute study claims that the EPA has been “significantly overestimating methane emissions from natural gas operations.”
+
+In a 2014 primer on hydraulic fracking, [API] said industry is “developing and implementing new technologies to reduce methane released during production.”API, which represents both oil and gas interests, declined several requests to be interviewed for this story, but in a 2014 primer on hydraulic fracking, the group said industry is “developing and implementing new technologies to reduce methane released during production.” Citing EPA estimates in the same report, API said the methane leakage rate for natural gas systems is below 2 percent, which is “less than the 3 percent cited as necessary for immediate climate benefits for the use of natural gas in power plants and well under the 8 percent estimate cited for delivering long-term benefits as compared to coal.”
+
+Leaky Pipelines
+
+In the U.S., two bills introduced by Massachusetts Senator Edward Markey would address yet another major source of methane leaks — those from the aging pipeline networks under American cities. In many cases, the cast-iron and corroded steel lines are more than 100 years old, and modern technology is showing us just how bad the problem is. EDF and Google Earth Outreach teamed up to build colorful interactive maps of leak points that show Boston to be thickly populated with hot spots, while Indianapolis — which recently updated its infrastructure — is relatively clean. A new study led by Harvard graduate student Kathryn McKain concludes that in a one-year period beginning in 2012, approximately 3 percent of the gas being delivered to customers in greater Boston was leaked to the atmosphere.
+
+Stanford’s Jackson was a pioneer in developing pipeline leak mapping in 2012. He says that cutting off the flow “means more money in the pockets of the producers, or in the pockets of consumers who pay for the lost gas.” But as Jackson points out, gas companies would have more incentive to fix leaks were it not for the fact that in many communities they’re allowed to estimate leakage and then bill the end users — us — for natural gas that goes missing. Also dampening their ardor in some places are mandated caps on the cost recovery for pipeline repairs.
+
+Kathryn Clay, vice president for policy strategy at the American Gas Association, said at the 2014 SXSW Eco conference in Austin that 3,000 to 4,000 miles of cast iron (or bare uncoated steel) pipelines are being replaced annually across the country, and that the “rate of emissions per mile is down 40 percent since 1990.” But Jackson says the record is spotty: The state of Ohio has replaced nearly all its cast iron, but Baltimore, he says, “is on track to replace its last old pipes in 2150.”
+
+Methane Hydrates
+
+Whichever claims are more accurate, at least oil and gas leaks can most likely be fixed. Methane hydrates, on the other hand, are a much more difficult problem. The frozen deposits, formed from the long-ago decomposition of plankton, are mostly at the bottom of deep oceans. This methane is being released into the atmosphere at an accelerating rate as the world warms. In 2013, for example, an international research team reported that the East Siberian Arctic Shelf — or ESAS — is venting at least 17 million tons of methane annually, which Natalia Shakhova, a member of the team and professor at the University of Alaska, Fairbanks, says is equal to the gas emitted by the arctic tundra — long considered one of the Northern Hemisphere’s principal sources.
+
+Undersea hydrate deposits have attracted considerable attention from energy producers.According to a 2014 article in Scientific American, however, it might be possible to derive benefit from this burden. Undersea hydrate deposits have attracted considerable attention from energy producers — they could, writer Lisa Margonelli noted, “hold at least as much carbon as all the coal, oil and natural gas reserves on the planet.” Just in the waters off the contiguous United States, hydrates could hold what amounts to a 2,000-year supply of natural gas. And Japan, without significant oil and gas reserves of its own, has shown strong research interest in hydrate mining.
+
+But the promise is counterbalanced by nightmare climate scenarios in which, as part of a warming world, methane hydrates vent into the atmosphere. According to the EPA, “Pound for pound, the comparative impact of [methane] on climate change is over 20 times greater than CO 2 over a 100-year period.”
+
+“Emissions will continue to grow, because warming in the Arctic region is occurring twice as fast as the rest of the globe, and this trend is continuing,” Shakhova says. “‘Hot spots’ — and we believe the East Siberian Arctic Shelf is the world’s hottest spot — occur where permafrost has reached the thaw point.”
+
+The possibility of a massive release of hydrate methane “could not be excluded,” Shakhova says. In a 2008 scientific paper she and colleagues wrote, “We consider release of up to 50 gigatons [10 times the current amount of methane in the atmosphere] of predicted amount of hydrate storage as highly possible for abrupt release at any time.” That would cause “consequent catastrophic greenhouse warming.” In 2013, she co-wrote a paper in Nature Geoscience concluding, “significant quantities of methane are escaping the East Siberian Shelf.”
+
+Deep deposits are relatively safe from small-scale warming, but shallower hydrates — like those under the East Siberian Arctic Shelf — are vulnerable.
+
+A Nature commentary by three European scientists estimated that a release of 50 gigatons between 2015 and 2025 could cost a whopping $60 trillion in global economic damage and adaptation costs. Of course, many scientists think methane releases will occur over centuries, not in an abrupt and catastrophic event.
+
+Keep in mind that Earth’s methane hydrate deposits are estimated to be 1,800 gigatons (1,400 in the East Siberian Arctic Shelf alone), so a 50-gigaton release is just, as it were, the tip of the iceberg for a global problem. Changes in the Gulf Stream are “rapidly destabilizing methane hydrate along a broad swathe of the North American margin,” Southern Methodist University scientists Benjamin Phrampus and Matthew Hornbach wrote in 2012 in Nature. Deep deposits are relatively safe from small-scale warming, but shallower hydrates — like those under the East Siberian Arctic Shelf — are vulnerable.
+
+Farming Reforms
+
+In the meantime, the 29 percent of human-related global methane production attributable to those black-and-white dairy cows and other ruminant livestock offers a more hopeful opportunity for near-term reductions.
+
+Farmers in China are working with scientists on rice-growing methods that cut emissions. Instead of flooding fields throughout the growing season, rice farmers are draining them halfway through, which cuts both water use and to a great extent methane production. Since Chinese paddies release an estimated 5.1 million tons of methane annually, it’s a really big benefit. The Climate and Clean Air Coalition to Reduce Short-Lived Climate Pollutants and its partners are working with rice farmers in Bangladesh, Colombia and Vietnam to reduce methane intensity 30 percent by 2019, a process that also brings food security and adaptation benefits.
+
+And changes to what livestock eat (increasing dietary fat intake, for instance) could, along with variations on cow power, significantly reduce agricultural methane output. A feed high in omega-3 fatty acids, for example, is in use at 600 French farms (some of them large industrial operations), the New York Times reported, and has yielded 30 percent methane reductions.
+
+Next Steps
+
+The Obama administration released a methane blueprint in 2014 that called for, among other things, updated standards for landfill methane, a capture plan for emissions from coal mines and voluntary strategies to reduce dairy sector methane by 25 percent by 2020. Earlier this month, the administration got tougher and said it would impose new rules to cut methane emissions from the oil and gas sector up to 45 percent from 2012 levels by 2025. Final regulations are expected in 2016.
+
+Getting a comprehensive methane bill through Congress would be difficult, but the President’s action relies on his authority to act independently under the Clean Air Act. Doniger says that methane regulations could legally be adopted by the EPA under current law, as has been done to control auto fuel economy and emissions from current power plants.
+
+As a global warming actor, methane is both deeply worrying and poorly understood. Internationally, there’s hope that the U.N. climate change conference to be held in Paris at the end of 2015 will result in an agreement that includes strong initiatives on reducing methane. Already, there are programs in place all over the world, including introduction of a new sheep breed in New Zealand estimated to produce 10 percent lower emissions and a Carbon Farming Initiative in Australia that includes carbon credits for methane cuts. A pilot project in Kenya is focused on reducing emissions by improving the diet of dairy cows.
+
+As a global warming actor, methane is both deeply worrying and poorly understood. It’s also a moving target, arising with varying levels of intensity from many sources, both human — agriculture and the oil and gas sector — and natural — wetlands and hydrates in the depths of the ocean. At the same time, it’s one area where big impacts can be made in the very near future.
+
+All that means that no comprehensive plan to curb greenhouse gas emissions can afford to ignore this major player.

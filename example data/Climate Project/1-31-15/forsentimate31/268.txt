@@ -1,0 +1,53 @@
+Climate models don't over-predict warming, study shows
+268
+http://phys.org/news/2015-01-climate-dont-over-predict.html
+
+If you listen to climate change skeptics, Earth's surface hasn't warmed appreciably in the last 15 years, and any "record" set last year is just the result of the planet doing what the planet naturally does.
+
+It turns out they're right, but for the wrong reasons, according to a study published online Wednesday in the journal Nature.
+
+There is no inherent bias in climate models that makes them over-estimate the effects of human activity, according to the study.
+
+"Cherry picking" the most recent 15-year interval to refute climate change modeling is misleading and obscures the long-term agreement between the models and measurements, according to study co-author Piers Forster, an atmospheric physicist from the University of Leeds, England.
+
+A study that combined 114 possible 15-year trends since 1900 found that there was nothing statistically biased in the ways model-generated data differed from actual measurements of global mean surface temperatures. These short trends cannot predict "chaotic" fluctuations in such factors as ocean currents, according to the study.
+
+A similar analysis of every possible 62-year trend was much better at picking up the effects of human activity on rising global temperatures, the study found.
+
+"What people have done before is cherry picking to try to come up with their preferred explanation for a particular period," Forster said. "We tried to be more objective than that and look at all the possible begin dates and end dates."
+
+For instance, if you take 1927 as a beginning, then 110 of 114 simulations turn out to under-estimate the observed temperature trends, the study noted. With 1998 as a beginning date, the models over-estimate the actual change.
+
+Critics of climate science have used the 1998 start date to dismiss the thesis that man-made activity is contributing to rising surface temperatures on Earth's surface, as a consensus of scientists say.
+
+The researchers chose the 15- and 62-year intervals because they are the durations referenced most often by the Intergovernmental Panel on Climate Change, which focuses particularly on accelerated warming in the 1950-2012 period.
+
+Forster and Jochem Marotzke, director of the Max Planck Institute for Meteorology in Hamburg, Germany, looked at how models handled "forcing" of the climate from man-made and other factors, at feedback from such forcing, and random climate variability.
+
+They found that the models are not biased toward overstating the roles of forcing and feedback. Modeling over the shorter intervals, however, tends to be more susceptible to small errors from unpredictable periodic climate variations, they found.
+
+That element of "chaos" most often is introduced by sudden shifts in ocean behavior, the authors suggest.
+
+"The ocean just fluctuates and changes from time to time and that is quite unpredictable, so it can give significant 15-year counter-trends," Forster said. For that reason, some 15-year intervals can lag behind the measured temperature trends, he said.
+
+The shorter intervals are not adequate at showing the effects of Earth responding to man-made forces, and to some natural ones, such as the after effects of volcanic eruptions, the study found. Longer-period analyses do a better job, the study concluded. But the climate models tend to be accurate and unbiased overall, they concluded.
+
+For every start year after 1915, the modeled 62-year trends show too little warming, the study found. From about 1945 onward, they slightly over-estimate the measured warming, but by a difference that is well within the margin of natural climate variability, the study found.
+
+The study bolsters other recent research that suggests the last 15 years, a so-called warming hiatus, do not mark an end to the acceleration in Earth's mean surface temperature since mid-20th century.
+
+"The best explanation we offer is these chaotic and random fluctuations within the oceans," Forster said. "It does seem to be that the Pacific and the Atlantic are drawing heat down from the atmosphere."
+
+Two separate analyses of global mean surface temperature released Jan. 16 by NASA and the National Oceanic and Atmospheric Administration noted that surface temperatures of oceans set an all-time record in 2014.
+
+That ocean trend pushed overall global mean surface temperature to 58.2 degrees Fahrenheit, its highest level since measurement began in 1880, the agencies reported. It's a tight race, however, with contending years separated by fractions of a degree. Nine of the 10 warmest years on record have occurred since 2002, according to NOAA. The other was 1998, which ranked fourth, largely due to the effects of the naturally occurring El Nino ocean cycle.
+
+While NASA said its confidence in 2014's status as the all-time temperature leader was about 38 percent (NOAA was 10 points higher), that still makes it 1.5-3 times more likely than 2010 to be the record, according to the agency.
+
+
+
+Explore further: Climate models disagree on why temperature 'wiggles' occur
+
+More information: Nature, dx.doi.org/10.1038/nature14117
+
+

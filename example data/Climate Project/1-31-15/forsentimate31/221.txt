@@ -1,0 +1,5 @@
+Climate driven vertical acceleration of Icelandic crust measured by CGPS geodesy
+221
+http://onlinelibrary.wiley.com/doi/10.1002/2014GL062446/abstract
+
+Earth's present-day response to enhanced glacial melting resulting from climate change can be measured using Global Positioning System (GPS) technology. We present data from 62 continuously operating GPS instruments in Iceland. Statistically significant upward velocity and accelerations are recorded at 27 GPS stations, predominantly located in the Central Highlands region of Iceland, where present-day thinning of the Iceland ice caps results in velocities of more than 30 mm/yr and uplift accelerations of 1-2 mm/yr2. We use our acceleration estimates to back-calculate to a time of zero velocity, which coincides with the initiation of ice loss in Iceland from ice mass balance calculations and Arctic warming trends. We show, through a simple inversion, a direct relationship between ice mass balance measurements and vertical position and show that accelerated unloading is required to reproduce uplift observations for a simple elastic layer over viscoelastic half-space model.

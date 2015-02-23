@@ -1,0 +1,43 @@
+Go Figure: What bananas tell us about radiation
+494
+http://www.bbc.co.uk/news/magazine-15288975
+
+Go Figure: What bananas tell us about radiation
+
+There's been concern about radiation after damage to Japan's Fukushima nuclear plant in March and now a hot spot has been detected in Tokyo. But how do we think of radiation in ordinary terms, asks Michael Blastland in his regular column.
+
+Freaky, isn't it, radiation? Invisible, baffling, harmful (bombs) and helpful (X-rays) or both (nuclear power). And we go nuts if someone wants to put a load in our backyard even though it's everywhere.
+
+How much easier if our exposure to the hazards of radiation could all be reduced to bananas. Actually, it can, sort of. Welcome to the Banana Equivalent Dose or BED.
+
+Bananas are a natural source of radioactive isotopes. True, there's not much in one banana. But enough, according to Nuclear Threat Initiative - a security-minded think tank - for a few bananas to trigger radiation sensors used at US ports to detect smuggled nuclear material.
+
+The standard measure of the biological effect of radiation is the sievert. One sievert is a heck of a big dose, but one tenth of a millionth of a sievert, or 0.1 micro sieverts, is roughly the dose from eating one banana.
+
+So we can use one banana as our basic unit and convert other radiation exposures to so many bananas. The data for the table comes from here. I don't claim to have checked it.
+
+Number of bananas equivalent Selected exposures to radiation 500 million Ten minutes next to Chernobyl reactor core after explosion and meltdown 80 million Fatal dose even with treatment 20 million Severe radiation poisoning, fatal in some cases 500,000 Maximum legal yearly dose for a US radiation worker 70,000 Chest CT scan 40,000 Ten years of normal background dose, 85% of which is from natural sources 4000 Mammogram 1000 Approximate total dose received at Fukushima Town Hall in two weeks following accident 400 Flight from London to New York 300 Yearly release target for a nuclear power plant 200 Chest X-ray 50 Dental X-ray 1 Eating a banana 0.5 Sleeping with someone
+
+But why bother converting this to bananas? Partly because it's hoped BED is friendlier than sieverts and grays and rads and rems, and all the other paraphernalia. I'd agree. Though not everyone likes the BED because of problems counting changing level of exposure from the radiation in a banana as it passes through the body.
+
+But I reckon the BED is useful for several reasons. First, it reminds us that radiation is commonplace. You can't get much more ordinary than a banana.
+
+Checks are done for radiation levels in Japan
+
+Second, we know eating one banana won't kill us. Not even nearly. Not without extreme violence. This affirms an age-old point about toxicity - that danger is in the dose. In other words most things, radiation included, are only dangerous in sufficient quantities. The distinction between toxic and safe is not really a distinction of kind, but of quantity. That goes for just about everything from water and vitamins to arsenic.
+
+Third, think about eating 20 million bananas, equal to a dose causing severe, sometimes fatal, radiation poisoning. You'd probably die from something other than the radiation well before you were anywhere near 20 million. Do not attempt this at home. Even over an 80-year lifetime it's nearly 700 a day. Brings to mind Cool Hand Luke's 50 eggs in one hour.
+
+So by putting all radiation exposure on one scale, the banana scale, we see clearly how huge a scale it is. At low doses the bananas come in bunches, then rise through the thousands to the millions, corresponding to micro-sieverts, milli-sieverts and sieverts, the SI unit.
+
+Usually, graphs with this kind of problem use a logarithmic scale, as with decibels, but logarithmic scales trouble some readers. Bananas don't have that problem. For another visualisation that tries to get over the breadth of scale, take a look at this David McCandless effort here.
+
+By talking bananas, Go Figure doesn't mean to trivialize the health risk of radiation. Radiation - strictly speaking we're talking ionizing radiation here, the type that can damage human cells - is often far from trivial. The US National Cancer Institute has estimated, for example, that the millions of CT scans in the US in 2007 alone will eventually cause 29,000 cancers.
+
+But the way we measure things can change how we think about them. Take the radiation from a chest CT scan. If I say that it compares to being a mile and a bit from the epicentre of the Hiroshima atom bomb, you might just see the risk of that scan differently than if I compare it to eating 70,000 bananas.
+
+Believe it or not, both comparisons are just about valid. The exposure caused by the bomb falls away quite quickly with distance. Decide for yourself which sounds worse.
+
+So does looking at radiation exposure through a banana change anything for you? If not, it might be because of the freakiness with which we began.
+
+Attitudes to risk are complicated, emotional and cultural, and they run deep. Fear, for instance, isn't easily quantifiable. It's not obvious how to put the psychology of risk on a graph. Numbers only take us so far, even when converted to your everyday friendly banana.

@@ -1,0 +1,33 @@
+Heat waves becoming more prominent in urban areas, research reveals -- ScienceDaily
+91
+http://www.sciencedaily.com/releases/2015/01/150130102543.htm
+
+The world's urban areas have experienced significant increases in heat waves over the past 40 years, according to new research published today.
+
+These prolonged periods of extreme hot days have significantly increased in over 200 urban areas across the globe between 1973 and 2012, and have been most prominent in the most recent years on record.
+
+The results, which have been published today, 30 January, in IOP Publishing's journal Environmental Research Letters, show that over the same time period, more than half of the studied areas showed a significant increase in the number of individual extreme hot days, whilst almost two-thirds showed significant increases in the number of individual extreme hot nights.
+
+The study, undertaken by researchers at the Indian Institute of Technology (IIT) Gandhinagar, Northeastern University, University of California, Los Angeles, and the University of Washington, is one of the first to focus solely on the extent of extreme weather on a global scale, as well as examining disparities between urban and non-urban areas.
+
+In their study, the researchers obtained daily observations for rain, air temperature and wind speed from the Global Summary of the Day (GSOD) data set produced by the National Climatic Data Center (NCDC).
+
+They identified all urban areas globally with a population greater than 250,000 (around 650 areas) and then refined the list based on the area's proximity to a GSOD station and the availability of complete weather records. They were left with 217 stations with complete records for the period 1973-2012, most of which were located at airports close to urban areas.
+
+Once the data was obtained for the 217 urban areas, the researchers identified extremes for temperature, precipitation and wind and calculated heat waves, cold waves as well as individual extreme hot days and nights.
+
+Heat waves were defined as periods where the daily maximum temperature was hotter than 99 per cent of days for the period 1973-2012, for a consecutive period of six or more days.
+
+The results showed that there were statistically significant increases in the number of heat waves per urban area during the last four decades. Of the five years with the largest number of heat waves, four were the most recent years on record (2009, 2010, 2011 and 2012).
+
+Results also showed a general decline in cold waves, and around 60 per cent of urban areas experiencing a significant decline in extreme windy days. Around 17 per cent of urban areas experienced a significant increase in daily precipitation extremes, and around 10 per cent experienced a significant increase in annual maximum precipitation.
+
+Lead author of the research Professor Vimal Mishra from IIT Gandhinagar said: "Our results show significant increases in heat waves and the number of hot days and warm nights, and at the same time declines in cold waves and extreme windy days in many urban areas over the last 40 years. We also find that the number of changes in precipitation extremes was modest, which is somewhat surprising as our previous work showed a predominance of increases in precipitation extremes in major U.S. urban areas.
+
+"Over half of the world's population now live in urban areas; hence, it is particularly important to understand how the climate and climate extremes, in particular, are changing in these areas.
+
+"Urban areas make up a relatively small part of the global land area; however, they are the centre of wealth, so damage to urban infrastructure could result in potentially large economic losses. Surprisingly, there have been few studies that have focused on changes in climatic extremes in these areas."
+
+Using a separate data set in which 142 pairs of urban and non-urban areas were selected, the researchers found disparate changes for temperature and wind related extremes, with generally more increases in temperature-related extremes, and more decreases in wind-related extremes in urban areas compared to non-urban areas.
+
+The team are now examining the impacts of climate and weather extremes in urban regions on critical lifeline infrastructures, as well as on urban and coastal ecosystems and marine life.

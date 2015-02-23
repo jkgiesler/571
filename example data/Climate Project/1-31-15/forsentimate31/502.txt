@@ -1,0 +1,71 @@
+Seven Reasons Cheap Oil Can't Stop Solar Power Anymore
+502
+http://www.bloomberg.com/news/articles/2015-01-30/seven-reasons-cheap-oil-can-t-stop-renewables-now
+
+Oil prices have fallen by more than half since July. Just five years ago, such a plunge in fossil fuels would have put the renewable-energy industry on bankruptcy watch. Today: Meh.
+
+Here are seven reasons why humanity’s transition to cleaner energy won’t be sidetracked by cheap oil.
+
+1. The Sun Doesn't Compete With Oil
+
+Oil is for cars; renewables are for electricity. The two don’t really compete. Oil is just too expensive to power the grid, even with prices well below $50 a barrel.
+
+Instead, solar competes with coal, natural gas, hydro, and nuclear power. Solar, the newest to the mix, makes up less than 1 percent of the electricity market today but will be the world’s biggest single source by 2050, according to the International Energy Agency. Demand is so strong that the biggest limit to installations this year may be the availability of panels.
+
+“You couldn’t kill solar now if you wanted to,” says Jenny Chase, the lead solar analyst with Bloomberg New Energy Finance in London.
+
+2. Electricity Prices Are Still Going Up
+
+The real threat to renewables isn’t cheap oil; it’s cheap electricity. In the U.S., abundant natural gas has made power production exceedingly inexpensive. So why are electricity bills still going up?
+
+Source: Deutsche Bank. Data: EIA, Thomson Reuters
+
+Fuel isn’t the only component of the electricity bill. Consumers also pay to get the electricity from power plant to home. In recent years, those costs have soared. Annual investments in the grid increased fourfold since 1980, to $27 billion in 2010, according to a report by Deutsche Bank analyst Vishal Shah. That’s driving bills higher and making rooftop solar attractive.
+
+3. Solar Prices Are Still Going Down
+
+You may have seen this chart before. It’s the most important chart. It shows the reason solar will soon dominate: It’s a technology, not a fuel. As time passes, the efficiency of solar power increases and prices fall. Michael Park, an analyst at Sanford C. Bernstein, has a term for the staggering price relationship between solar and fossil fuels: the Terrordome.
+
+Source: Bernstein Research. Data: EIA, CIA, World Bank, Bernstein analysis
+
+The chart above shows the price of energy from different sources since the late 1940s. The extreme outlier is solar, which only recently entered the marketplace, at a very high price. Prices are falling so fast that solar will soon undercut even the cheapest fossil fuels, coal and natural gas. In the few places oil and solar compete directly, oil doesn’t stand a chance.
+
+Case in point: Oil-rich Dubai just tripled its solar target for the year 2030, to 15 percent of the country’s total power capacity. Dubai’s government-owned utility this week awarded a $330 million contract for a solar plant that will sell some of the cheapest electricity in the world.
+
+4. Sales of Plug-Ins Are Doing Just Fine, Actually
+
+Conventional wisdom says cheap oil is an existential threat to electric vehicles. It’s been true in the past, notably when Congress retreated from funding EV research in the 1980s as oil prices tanked. Things are different now, and global sales of plug-ins rose by about a third last year, according to BNEF.
+
+Source: Tom Randall. Data: Electric Drive Transportation Association, Ward’s Automotive Group, Bloomberg
+
+Here’s why cheap oil won’t stop electric vehicles:
+
+Since 2010 there’s been no relationship between gasoline price and electric vehicle sales, according to BNEF analyst Alejandro Zamorano Cadavid. Electric cars are still in the early-adopter phase, and someone paying $100,000 for a Tesla doesn’t care that gasoline costs a buck less per gallon. In Europe, gas taxes are so high that it makes the price of crude less important. If you’re in Norway, and gas drops from $10 a gallon to $9 a gallon, electric cars are still a deal. In China, the government is stepping up support for electric vehicles. Pollution has become a serious problem, and the Chinese are getting serious about fixing it. Plug-in sales are soaring.
+
+Electric vehicles are moving like a Tesla: quietly, but with great acceleration. Let’s bookmark this conversation for two years from now, when Chevy and Tesla plan to release the first affordable mass-market plug-ins with a range of 200+ miles per charge. At that point, the price of fuel might be a real consideration for car buyers, and at that point it’s more likely to tip the scales toward EVs, not away from them.
+
+5. Pump Prices Haven't Dropped as Much as Oil Prices
+
+They haven't changed at all in Malaysia, Indonesia, and Thailand
+
+Source: Bernstein Research
+
+There are a couple of interesting reasons why savings at the pump haven't kept pace with falling oil prices. First, a number of countries, including India and Indonesia, have used the price drop as cover to cut gasoline subsidies that were weighing down their budgets. Second, countries that include China have pocketed the savings from cheaper oil by increasing gasoline taxes to make up the difference.
+
+Fossil-fuel subsidies outpace renewable-energy subsidies by a factor of 6 to 1. Reducing the subsidy gap is one of the cheapest ways to increase fuel efficiency and speed up the switch to cleaner energy. Expect similar moves as the rising toll of climate change pushes governments to take action.
+
+6. Oil Prices Won’t Stay This Low Forever
+
+The history of oil prices follows a golden rule: What goes down must come up. Goldman Sachs identified almost $1 trillion in investments in future oil projects that are no longer profitable with oil under $70 a barrel. American drillers are idling rigs faster than they have since 1991. Eventually, supply will shrink and prices will rise again.
+
+Oil may never return to $100 a barrel, according to billionaire Saudi Prince Alwaleed Bin Talal Al Saud. Even so, few experts foresee oil remaining at its current lows for more than a year or two. Unlike oil, the price of renewables is predictable and always going down. Solar power will be as cheap as, or cheaper than, electricity from the grid in as much as 80 percent of global markets by the end of 2017, according to Deutsche Bank's Shah.
+
+7. Global Investment in Clean Energy Keeps Flowing
+
+The biggest question for renewables and the oil plunge is: How much does perception shape reality? Shares of solar and wind companies have been pulled down with oil prices. Will this artificial drag bleed into direct investments in energy projects?
+
+This chart shows a conservative scenario. BNEF's more optimistic scenario is 8%-10% higher. Source: Bloomberg New Energy Finance
+
+Not likely. There are too many forces pulling in the opposite direction. Global investment in clean energy increased 16 percent last year, to $310 billion, according to data compiled by BNEF. The U.S. and China, the world's biggest emitters, reached a historic deal in November to rein in greenhouse gases. Pope Francis is preparing a papal encyclical on climate change, a letter to the world’s bishops that will formalize the church’s moral position on the issue for 1.2 billion Catholics. He may also convene a summit of the world’s top religious leaders in advance of global climate talks in Paris in December.
+
+Those talks represent the world’s last best chance to mitigate the damage from climate change. National policies to reduce carbon pollution would speed up the adoption of clean energy. Even in their absence, the global energy shift away from fossil fuels has begun, and we know how it will end.

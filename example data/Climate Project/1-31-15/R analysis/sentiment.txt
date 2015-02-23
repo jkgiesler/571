@@ -1,0 +1,1265 @@
+The First Super Bowl Played Under LEDs Will Use 75 Percent Less Power
+Filename :10
+http://gizmodo.com/the-first-super-bowl-played-under-leds-will-use-75-perc-1682559078
+Sentiment(polarity=0.1186423054070113, subjectivity=0.4943033273915627)
+
+Climate: Rapid Iceland uplift linked with ice cap meltdown
+Filename :100
+http://summitcountyvoice.com/2015/01/31/climate-rapid-iceland-uplift-linked-with-ice-cap-meltdown/
+Sentiment(polarity=0.06536796536796538, subjectivity=0.3289416723627251)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :105
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?smid=nytnow-share&smprod=nytnow&_r=0
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+Climate Change Infographic
+Filename :112
+http://www.businessinsider.com/climate-change-infographic-2015-1
+Sentiment(polarity=0.12170745920745919, subjectivity=0.3891317016317017)
+
+Climate change is lifting Iceland – and it could mean more volcanic eruptions
+Filename :115
+http://www.theguardian.com/environment/2015/jan/30/climate-change-lifting-iceland-volcanic-eruptions
+Sentiment(polarity=0.08551544011544011, subjectivity=0.3876144300144299)
+
+Climate Change’s Bottom Line
+Filename :119
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Rocket blasts off with NASA satellite to track climate change
+Filename :12
+http://www.reuters.com/article/2015/01/31/us-space-nasa-launch-idUSKBN0L40KX20150131
+Sentiment(polarity=-0.050231435231435244, subjectivity=0.394945054945055)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :120
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=1
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+[INFOGRAPHIC] The Impact of Recycling
+Filename :122
+http://www.environmentguru.com/pages/elements/element.aspx?id=1826383&utm_source=dlvr.it&utm_medium=twitter&utm_campaign=Feed%3A+News-Waste+%28Waste+News%29
+Sentiment(polarity=0.11128787878787878, subjectivity=0.3539772727272727)
+
+24 quotes on climate change from Davos 2015
+Filename :124
+https://agenda.weforum.org/2015/01/24-quotes-on-climate-change-from-davos-2015/?utm_content=bufferf0012&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.02279352481733434, subjectivity=0.4363107835726884)
+
+Don't Bail Out Big Oil
+Filename :129
+http://www.leadnow.ca/dont-bail-out-big-oil/
+Sentiment(polarity=0.13620841877420828, subjectivity=0.5201517050201261)
+
+Premiers need to see climate change as the elephant in the room
+Filename :13
+http://rabble.ca/blogs/bloggers/council-canadians/2015/01/premiers-need-to-see-climate-change-elephant-room?utm_content=buffer9670c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.026349703935910837, subjectivity=0.4753483106931383)
+
+Climate, change adaptation assets and group-based approaches
+Filename :131
+http://www.ifpri.org/publication/climate-change-adaptation-assets-and-group-based-approaches
+Sentiment(polarity=0.02278273809523809, subjectivity=0.5026636904761904)
+
+A New Flood Standard for Federal Investments Will Help Communities Weather Climate Change, Extreme Storms
+Filename :135
+http://www.whitehouse.gov/blog/2015/01/30/new-flood-standard-federal-investments-will-help-communities-weather-climate-change-
+Sentiment(polarity=0.12604321907600596, subjectivity=0.3290238450074515)
+
+NASA just blasted a satellite into space to track climate change
+Filename :14
+http://www.businessinsider.com/r-rocket-blasts-off-with-nasa-satellite-to-track-climate-change-2015-1
+Sentiment(polarity=0.013144174665913801, subjectivity=0.39211180124223605)
+
+Obama official pitches 'Frozen' spin-off about climate change
+Filename :140
+http://thehill.com/policy/energy-environment/230540-obama-administration-wants-frozen-spin-off-on-climate-change
+Sentiment(polarity=0.12489177489177489, subjectivity=0.4175865800865802)
+
+Ban Ki-moon: Lack of focus on green investment "troubling"
+Filename :141
+http://www.rtcc.org/2015/01/23/ban-ki-moon-lack-of-focus-on-green-investment-troubling/
+Sentiment(polarity=-0.02145408163265306, subjectivity=0.3730272108843538)
+
+Many G.M.O.-Free Labels, Little Clarity Over Rules
+Filename :142
+http://www.nytimes.com/2015/01/31/business/gmo-labels-for-food-are-in-high-demand-but-provide-little-certainty.html?smid=tw-share&_r=0
+Sentiment(polarity=0.129813689894335, subjectivity=0.44951380161057564)
+
+Kid Snippets: "Pest Control" (Imagined by Kids)
+Filename :148
+https://www.youtube.com/watch?v=_Uqk5-mZUFs&feature=youtu.be
+Sentiment(polarity=0.15253314393939396, subjectivity=0.586221590909091)
+
+Australian fish moving south as climate changes, say researchers
+Filename :15
+http://www.theguardian.com/environment/2015/jan/29/australian-fish-moving-south-as-climate-changes-say-researchers
+Sentiment(polarity=0.09637301587301589, subjectivity=0.39125444925444924)
+
+Arctic sea ice loss expected to be bumpy in the short term
+Filename :153
+http://www.spacedaily.com/reports/Erratic_as_normal_Arctic_sea_ice_loss_expected_to_be_bumpy_in_the_short_term_999.html
+Sentiment(polarity=0.031039147633975223, subjectivity=0.3969538363934916)
+
+Europeans should eat less meat, but EU keeps silent
+Filename :154
+https://euobserver.com/environment/127407
+Sentiment(polarity=0.02095465937571201, subjectivity=0.3622496582365004)
+
+Lifeline for Over 1 Million in Mali Under Threat by World Bank Dam Plans
+Filename :157
+http://www.internationalrivers.org/blogs/352/lifeline-for-over-1-million-in-mali-under-threat-by-world-bank-dam-plans
+Sentiment(polarity=0.10934917355371901, subjectivity=0.43343663911845726)
+
+Many Americans reject evolution, deny climate change and find GM food unsafe, survey finds
+Filename :159
+http://www.theguardian.com/science/2015/jan/29/evolution-gm-food-climate-change-us-survey?CMP=share_btn_tw
+Sentiment(polarity=0.09296874999999999, subjectivity=0.3915476190476189)
+
+Climate Change’s Bottom Line
+Filename :16
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?smid=tw-share&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Poll: Is climate change denial a path to political death?
+Filename :161
+http://blog.seattlepi.com/seattlepolitics/2015/01/30/poll-is-climate-change-denial-a-path-to-political-death/#4530101=0
+Sentiment(polarity=0.13131430584918957, subjectivity=0.4574171952078929)
+
+5 Ways to Teach Children About Climate Change
+Filename :163
+http://ecowatch.com/2015/01/30/teach-children-climate-change/
+Sentiment(polarity=0.12374775630873194, subjectivity=0.41461408510189013)
+
+Why Climate Deniers Have No Scientific Credibility: Only 1 of 9,136 Recent Peer-Reviewed Authors Rejects Global Warming
+Filename :165
+http://www.desmogblog.com/2014/01/08/why-climate-deniers-have-no-scientific-credibility-only-1-9136-study-authors-rejects-global-warming
+Sentiment(polarity=0.023313966735019367, subjectivity=0.36219526087947135)
+
+Obama's Climate Plan Could Threaten U.S. Forests
+Filename :166
+http://www.politico.com/magazine/story/2015/01/obama-climate-plan-threatens-us-forests-114718.html
+Sentiment(polarity=0.023128204537779, subjectivity=0.4072047603696539)
+
+Shell backs climate change resolution filed by shareholder activists
+Filename :167
+http://www.rtcc.org/2015/01/29/shell-backs-climate-change-resolution-filed-by-shareholder-activists/
+Sentiment(polarity=0.09712072649572653, subjectivity=0.39045940170940174)
+
+Climate Change’s Bottom Line
+Filename :171
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?partner=rssnyt&emc=rss&utm_source=twitterfeed&utm_medium=twitter&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Seven Reasons Cheap Oil Can't Stop Solar Power Anymore
+Filename :172
+http://www.bloomberg.com/news/articles/2015-01-30/seven-reasons-cheap-oil-can-t-stop-renewables-now
+Sentiment(polarity=0.1117907994782995, subjectivity=0.4197124888999891)
+
+Climate Change: With Head and Heart
+Filename :173
+http://ucarconnect.ucar.edu/multimedia/videos/climate-change-head-and-heart
+Sentiment(polarity=-0.010416666666666666, subjectivity=0.30162037037037037)
+
+Climate Change’s Bottom Line
+Filename :179
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=1
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Three Reasons Why the Virginia Coastal Protection Act Is Smart Policy
+Filename :18
+http://blog.ucsusa.org/three-reasons-why-the-virginia-coastal-protection-act-is-smart-policy-801
+Sentiment(polarity=0.14705666357452074, subjectivity=0.46028138528138524)
+
+Global Warming: What Should Be Done?
+Filename :182
+http://www.nytimes.com/interactive/2015/01/29/us/global-warming-poll.html?smid=tw-share&utm_content=buffera09b3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&_r=0
+Sentiment(polarity=0.06146601146601149, subjectivity=0.28506688506688505)
+
+Climate Change’s Bottom Line
+Filename :183
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+West Virginia Revisits Science Standards
+Filename :184
+http://www.nytimes.com/2015/01/13/us/west-virginia-revisits-science-standards.html?partner=rssnyt&emc=rss&_r=0
+Sentiment(polarity=0.1272495791245791, subjectivity=0.4607040644540646)
+
+dennis baker
+Filename :185
+https://t.co/xDUffW7ArI
+Sentiment(polarity=0.01018583518583519, subjectivity=0.48983853983853987)
+
+Normal Living Standards Possible Even While Combating Climate Change
+Filename :187
+http://www.natureworldnews.com/articles/12317/20150128/normal-living-standards-possible-even-while-combating-climate-change.htm
+Sentiment(polarity=0.09842674645615823, subjectivity=0.47106052117816805)
+
+Yes, we can live well and avoid climate disaster, says UK government
+Filename :19
+http://www.theguardian.com/environment/2015/jan/28/yes-we-can-live-well-avoid-climate-change-disaster-says-uk-government?CMP=share_btn_tw
+Sentiment(polarity=0.06446594222104426, subjectivity=0.4503893895220427)
+
+Ross Gelbspan: Up to His Old Tricks, Spreading Myths About Global Warming Skeptics
+Filename :195
+http://blog.heartland.org/2014/10/ross-gelbspan-up-to-his-old-tricks-spreading-myths-about-global-warming-skeptics/
+Sentiment(polarity=0.07253968253968256, subjectivity=0.34882086167800447)
+
+Nuclear Power Prevents More Deaths Than It Causes
+Filename :196
+http://cen.acs.org/articles/91/web/2013/04/Nuclear-Power-Prevents-Deaths-Causes.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+cen_latestnews+(Chemical+%26+Engineering+News%3A+Latest+News)&utm_content=Serving+the+chemical%2C+life+sciences+and+laboratory+worlds&utm_term=Chemical+and+Engineering+News
+Sentiment(polarity=0.08172348484848486, subjectivity=0.4395915678524376)
+
+So You Think We're Reducing The Use Of Coal? -- Think Again
+Filename :2
+http://www.forbes.com/sites/jamesconca/2014/10/23/so-you-think-were-reducing-the-use-of-coal-think-again/
+Sentiment(polarity=0.10164772727272729, subjectivity=0.44714826839826843)
+
+U.S. Official Wants 'Frozen' to Teach Kids About Climate Change
+Filename :20
+http://time.com/3680495/frozen-climate-change/
+Sentiment(polarity=0.03738095238095239, subjectivity=0.6146428571428572)
+
+Iceland is melting so fast, it’s literally popping off the planet – Quartz
+Filename :203
+http://qz.com/336517/iceland-is-melting-so-fast-its-literally-popping-off-the-planet/
+Sentiment(polarity=0.05668637595466866, subjectivity=0.3414658782951466)
+
+What should we watch for at the Paris climate talks?
+Filename :205
+https://agenda.weforum.org/2015/01/what-should-we-watch-for-at-the-paris-climate-talks/?utm_content=bufferd427d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.07964598718275188, subjectivity=0.39893472540531366)
+
+Southern Glaciers in China are Melting
+Filename :206
+http://www.enn.com/climate/article/48124?utm_source=twitter.com&utm_medium=social&utm_campaign=buffer&utm_content=bufferf048a
+Sentiment(polarity=0.09044372294372295, subjectivity=0.3563203463203463)
+
+Journalism & Communication for Global Change
+Filename :208
+http://www.ipsnews.net/news/projects/caribbean-climate-wire
+Sentiment(polarity=0.20024943310657592, subjectivity=0.4650566893424037)
+
+The Sea Also Rises
+Filename :209
+http://www.baltimoremagazine.net/2015/1/5/the-sea-also-rises
+Sentiment(polarity=0.044771364438031105, subjectivity=0.3955080166746831)
+
+CNN Ignores Major Climate Report, But Fox News Does Something Even Worse
+Filename :21
+http://thinkprogress.org/climate/2014/04/02/3421636/fox-news-ipcc/
+Sentiment(polarity=0.033867521367521365, subjectivity=0.45534188034188033)
+
+Exposed EPA Memo: Tie Fighting Global Warming to Americans’ ‘Personal Worries’
+Filename :214
+http://news.heartland.org/newspaper-article/2015/01/28/exposed-epa-memo-tie-fighting-global-warming-americans-personal-worries
+Sentiment(polarity=0.1150542495479204, subjectivity=0.4082353827606991)
+
+Tell Gov. Brown to end fracking in California NOW!
+Filename :218
+http://signforgood.com/endfrackinginca/?sp_ref=98433539.270.11316.t.44174.2
+Sentiment(polarity=0.11662504162504163, subjectivity=0.357126207126207)
+
+Climate Change, Agriculture, and Resilience
+Filename :219
+http://www.brownpapertickets.com/event/1181844
+Sentiment(polarity=0.0785204991087344, subjectivity=0.2645944741532977)
+
+What should we watch for at the Paris climate talks?
+Filename :220
+https://agenda.weforum.org/2015/01/what-should-we-watch-for-at-the-paris-climate-talks/?utm_content=bufferd427d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.07964598718275188, subjectivity=0.39893472540531366)
+
+Forget 'On Record,' 2014 May Have Been Warmest Year In Last 2,000
+Filename :224
+http://www.forbes.com/sites/ericmack/2015/01/18/forget-on-record-2014-may-have-been-warmest-year-in-last-5000/
+Sentiment(polarity=0.11011999696210223, subjectivity=0.38322510822510825)
+
+Volcanoes and Climate Change
+Filename :23
+http://time.com/3687893/volcanoes-climate-change/?utm_content=bufferb3166&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.040776530739493715, subjectivity=0.39840416510786875)
+
+Senate Republicans Support Energy Efficiency Bill, But Hold It 'Hostage' Anyway
+Filename :230
+http://www.huffingtonpost.com/2014/05/07/senate-energy-efficiency_n_5284200.html
+Sentiment(polarity=0.09648232323232325, subjectivity=0.4331540404040403)
+
+Federal Construction Projects Must Plan for Flood Risks From Climate Change
+Filename :231
+http://www.nytimes.com/2015/01/31/us/federal-construction-projects-must-plan-for-flood-risks-from-climate-change.html?smid=tw-share&_r=0
+Sentiment(polarity=0.1080119375573921, subjectivity=0.3973599632690542)
+
+To Solve Unemployment and Global Warming, Young People Hold the Key
+Filename :233
+http://www.huffingtonpost.com/bill-reese/to-solve-unemployment-and_b_5446292.html
+Sentiment(polarity=0.10552530802530799, subjectivity=0.4321703296703297)
+
+Dropping Oil Prices Highlight Growing Fossil Fuel Risks – Press Releases on CSRwire.com
+Filename :234
+http://www.csrwire.com/press_releases/37648-Dropping-Oil-Prices-Highlight-Growing-Fossil-Fuel-Risks?tracking_source=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+csrwire%2FPRfeed+%28CSRwire.com%29
+Sentiment(polarity=0.0921626714910297, subjectivity=0.40603303827184417)
+
+Fossil fuel firms accused of renewable lobby takeover to push gas
+Filename :235
+http://www.theguardian.com/environment/2015/jan/22/fossil-fuel-firms-accused-renewable-lobby-takeover-push-gas
+Sentiment(polarity=0.0868889485618809, subjectivity=0.3840946000532468)
+
+Most Americans Support Governmental Action, Poll Finds
+Filename :236
+http://www.hngn.com/articles/65405/20150131/climate-change-most-americans-support-governmental-action-poll-finds.htm
+Sentiment(polarity=0.09579804253717296, subjectivity=0.4145045172219084)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :237
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?emc=edit_na_20150130&nlid=43725413&_r=1
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+State Dept. to Disney: Use “Frozen” to teach kids about climate change
+Filename :238
+http://blog.sfgate.com/hottopics/2015/01/23/state-dept-to-disney-use-frozen-to-teach-kids-about-climate-change/
+Sentiment(polarity=0.09642857142857143, subjectivity=0.44804421768707486)
+
+Warm winter hampers Central Oregon snow; Storms from the west, southwest not helping build snowpack
+Filename :239
+http://www.bendbulletin.com/localstate/2831265-151/warm-winter-hampers-central-oregon-snow?carousel=1
+Sentiment(polarity=0.09310810810810811, subjectivity=0.48819819819819826)
+
+World's cities experiencing more heatwaves, study shows
+Filename :24
+http://www.theguardian.com/environment/2015/jan/30/worlds-cities-experiencing-more-heatwaves-study-shows
+Sentiment(polarity=0.1411494925839188, subjectivity=0.5037470725995314)
+
+Men's Boy Cotton T Shirts Leopard Look Upwards Summer Unisex T-shirt Tee Tops
+Filename :240
+http://www.ebay.co.uk/itm/Mens-Boy-Cotton-T-Shirts-Leopard-Look-Upwards-Summer-Unisex-T-shirt-Tee-Tops-/121325616078
+Sentiment(polarity=0.1574170942226498, subjectivity=0.40456403164736504)
+
+The Climate Science Behind New England's Historic Blizzard
+Filename :242
+http://thinkprogress.org/climate/2015/01/26/3615330/blizzards-climate-scientists/
+Sentiment(polarity=0.07187352166733608, subjectivity=0.5026519614406214)
+
+Climate Change’s Bottom Line
+Filename :247
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?partner=socialflow&smid=tw-nytimes&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :249
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?smid=tw-share&_r=0
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :250
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?emc=edit_th_20150131&nl=todaysheadlines&nlid=26958110&_r=1
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+How B.C.’s ski resorts are coping with global warming's threat to their existence
+Filename :251
+http://www.theglobeandmail.com/news/british-columbia/how-bcs-ski-resorts-are-coping-with-global-warming/article22731538/
+Sentiment(polarity=0.12149629054520364, subjectivity=0.39951949620427885)
+
+Iceland rises as its glaciers melt from climate change -- ScienceDaily
+Filename :255
+http://www.sciencedaily.com/releases/2015/01/150129113719.htm
+Sentiment(polarity=0.0781269325912183, subjectivity=0.3847924397031539)
+
+Experts: Include Ocean Acidification in Climate Change Negotiations
+Filename :256
+https://www.iaea.org/newscenter/news/experts-include-ocean-acidification-climate-change-negotiations?utm_content=bufferb7bf4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.13775464731347084, subjectivity=0.34117328749681686)
+
+"Leave Bulk of Fossil Fuels in the Ground, Stop Subsidies"
+Filename :257
+http://newsroom.unfccc.int/unfccc-newsroom/most-fossil-fuels-must-stay-in-the-ground-new-study/
+Sentiment(polarity=0.10402979373567608, subjectivity=0.4038037942449707)
+
+The forgotten women in India’s climate plans
+Filename :258
+http://www.trust.org/item/20150106125631-5tyzk?hootPostID=0b9fa452f3b6b523a5fb2e93102d1b03
+Sentiment(polarity=0.10325757575757574, subjectivity=0.3407416267942584)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :259
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=1
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+Project Drawdown – substantiative solutions to Climate Change
+Filename :261
+https://lauraecpaul.wordpress.com/2015/01/27/project-drawdown-substantiative-solutions-to-climate-change/
+Sentiment(polarity=0.15295698924731183, subjectivity=0.43306451612903224)
+
+Don’t wreck deel, US warns, as climate talks jam snapchat hoe usernames
+Filename :262
+http://www.hillbillytimes.com/2014/12/11/dont-wreck-deal-us-warns-as-climate-talks-jam/
+Sentiment(polarity=-0.10333333333333335, subjectivity=0.40750000000000003)
+
+Global Policy Journal - Practitioner, Academic, Global Governance, International Law, Economics, Security, Institutions, Comment & Opinion, Media, Events, Journal
+Filename :263
+http://www.globalpolicyjournal.com/blog/29/01/2015/subsidising-climate-change
+Sentiment(polarity=0.034126984126984124, subjectivity=0.4661616161616161)
+
+Climate models don't over-predict warming, study shows
+Filename :268
+http://phys.org/news/2015-01-climate-dont-over-predict.html
+Sentiment(polarity=0.028344260409477795, subjectivity=0.4106567747872095)
+
+Conservation Law Foundation Names New Clean Energy and Climate Change Director
+Filename :272
+http://www.clf.org/newsroom/clean-energy-director/
+Sentiment(polarity=0.15273355676581485, subjectivity=0.43326700181538896)
+
+Shell urges shareholders to accept climate resolution
+Filename :273
+http://www.theguardian.com/environment/2015/jan/29/shell-urges-shareholders-to-accept-climate-change-resolution?CMP=share_btn_tw
+Sentiment(polarity=0.043554292929292936, subjectivity=0.4781881313131312)
+
+Experts: Include Ocean Acidification in Climate Change Negotiations
+Filename :275
+https://www.iaea.org/newscenter/news/experts-include-ocean-acidification-climate-change-negotiations
+Sentiment(polarity=0.13775464731347084, subjectivity=0.34117328749681686)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :276
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?smprod=nytcore-ipad&smid=nytcore-ipad-share&_r=0
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+Public perception of man-made climate change is at a 10-year high
+Filename :28
+http://phys.org/news/2015-01-perception-man-made-climate-year-high.html
+Sentiment(polarity=0.16581741787624138, subjectivity=0.4858059587471351)
+
+Climate Change’s Bottom Line
+Filename :283
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?partner=socialflow&smid=tw-nytimes&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Climate Change’s Bottom Line
+Filename :284
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :285
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?emc=edit_na_20150130&nlid=43725413&_r=1
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+Nature is all about timing, and climate change is messing with the clock
+Filename :287
+http://www.onearth.org/earthwire/missed-connections?utm_source=tw&utm_medium=tweet&utm_campaign=socialmedia
+Sentiment(polarity=0.0789764079147641, subjectivity=0.4368748641008914)
+
+Top Canadian Energy Engineer – Eric Jelinski – Slams the Great Wind Power Fraud – STOP THESE THINGS
+Filename :288
+http://stopthesethings.com/2015/01/31/top-canadian-energy-engineer-eric-jelinski-slams-the-great-wind-power-fraud/
+Sentiment(polarity=0.08501112776112775, subjectivity=0.38674927849927865)
+
+Why Winter Doesn't Disprove Global Warming
+Filename :289
+https://www.youtube.com/watch?v=-7LEYOu4rCM&feature=youtu.be
+Sentiment(polarity=-0.0887758075258075, subjectivity=0.41611055611055603)
+
+Fighting Climate Change & Poverty at the Same Time
+Filename :29
+http://www.worldbank.org/en/news/feature/2014/12/04/fighting-climate-change-and-poverty
+Sentiment(polarity=0.03461001824972414, subjectivity=0.3871058271793566)
+
+Climate Change’s Bottom Line
+Filename :291
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Bribery Is a Bargain for Big Oil
+Filename :293
+http://www.huffingtonpost.com/stephen-kretzmann/bribery-is-a-bargain-for-_b_6516236.html
+Sentiment(polarity=0.12234218162789592, subjectivity=0.40771482485768207)
+
+Tell Gov. Brown to end fracking in California NOW!
+Filename :296
+http://signforgood.com/endfrackinginca/?sp_ref=98409888.270.11316.t.44174.2
+Sentiment(polarity=0.11662504162504163, subjectivity=0.357126207126207)
+
+How Reducing Food Waste Could Ease Climate Change
+Filename :297
+http://news.nationalgeographic.com/news/2015/01/150122-food-waste-climate-change-hunger/?now=2015-01-22-00:01
+Sentiment(polarity=0.08743968704906206, subjectivity=0.37960633116883113)
+
+News++ ™ by Otiose94
+Filename :298
+https://docs.google.com/spreadsheet/ccc?key=0AkbQG9GSsv-bdFJZZzJFcHdXNFBfX1RadVIzMVJycVE&usp=drive_web
+Sentiment(polarity=-0.015325954934315295, subjectivity=0.42714777646595836)
+
+Venereal Disease, Taxes, But Not Climate Change: Where Disney Draws The Line On PSAs
+Filename :30
+http://thinkprogress.org/culture/2015/01/28/3615987/venereal-disease-taxes-not-climate-change-disney-draws-line-psas/
+Sentiment(polarity=0.12468269907882017, subjectivity=0.47949055574055605)
+
+At Vatican, EPA Chief To Talk 'Moral Issue' Of Climate Change
+Filename :303
+http://thinkprogress.org/climate/2015/01/28/3616324/head-of-epa-visits-vatican-for-climate-talks/
+Sentiment(polarity=0.039616085668717244, subjectivity=0.3607085896559581)
+
+Climate Change’s Bottom Line
+Filename :304
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?partner=rssnyt&emc=rss&utm_source=twitterfeed&utm_medium=twitter&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Climate change: Rising sea levels pose salt threat in Vietnam
+Filename :307
+http://www.straitstimes.com/news/asia/south-east-asia/story/climate-change-rising-sea-levels-pose-salt-threat-vietnam-20140830
+Sentiment(polarity=0.09747166210982, subjectivity=0.4373875028480292)
+
+Climate Change’s Bottom Line
+Filename :309
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?partner=rssnyt&emc=rss&utm_medium=twitter&utm_source=twitterfeed&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :310
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?emc=edit_na_20150130&nlid=43725413&_r=1
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :312
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?emc=edit_na_20150130&nlid=43725413&_r=1
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+President Obama Protects Untouched Marine Wilderness in Alaska
+Filename :314
+http://www.whitehouse.gov/blog/2015/01/27/president-obama-protects-untouched-marine-wilderness-alaska
+Sentiment(polarity=0.1693655303030303, subjectivity=0.33946496212121213)
+
+Forcing, feedback and internal variability in global temperature trends
+Filename :315
+http://www.nature.com/nature/journal/v517/n7536/pdf/nature14117.pdf
+Sentiment(polarity=0.09760101010101009, subjectivity=0.45918109668109675)
+
+Tell Gov. Brown to end fracking in California NOW!
+Filename :316
+http://signforgood.com/endfrackinginca/?sp_ref=.270.11316.t.44174.2
+Sentiment(polarity=0.11662504162504163, subjectivity=0.357126207126207)
+
+Eco Climate Solutions
+Filename :318
+http://ecoclimatesolutions.com/2014/09/britain-faces-an-energy-crisis/
+Sentiment(polarity=-0.00783730158730159, subjectivity=0.35292658730158727)
+
+Many G.M.O.-Free Labels, Little Clarity Over Rules
+Filename :319
+http://www.nytimes.com/2015/01/31/business/gmo-labels-for-food-are-in-high-demand-but-provide-little-certainty.html?smid=tw-share&_r=0
+Sentiment(polarity=0.129813689894335, subjectivity=0.44951380161057564)
+
+Tell Assembly Members to Build a Better Bill!
+Filename :323
+http://www.shapingfuturewales.org/en/take-action/
+Sentiment(polarity=0.26101576994434134, subjectivity=0.4461077612863327)
+
+Chemtrails, Climate Engineering, Weather Warfare and Global Warming
+Filename :327
+http://www.globalresearch.ca/chemtrails-climate-engineering-and-weather-warfare/5390207
+Sentiment(polarity=-0.00471014492753622, subjectivity=0.6213768115942029)
+
+Decarbonising Australia’s economy by 2050
+Filename :328
+http://greenbyblue.com/decarbonising-australia/
+Sentiment(polarity=0.08732492997198879, subjectivity=0.44670868347338943)
+
+Climate Change’s Bottom Line
+Filename :33
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?smprod=nytcore-iphone&smid=nytcore-iphone-share&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Why Winter Doesn't Disprove Global Warming
+Filename :330
+https://www.youtube.com/watch?v=-7LEYOu4rCM&feature=youtu.be
+Sentiment(polarity=-0.0887758075258075, subjectivity=0.41611055611055603)
+
+It's Not Too Late To Stop Climate Change, And It'll Be Super-Cheap
+Filename :331
+http://thinkprogress.org/climate/2015/01/29/3616382/solving-climate-change-cheap/
+Sentiment(polarity=0.12260129383724884, subjectivity=0.4751392739594987)
+
+Climate Change’s Bottom Line
+Filename :332
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?partner=socialflow&smid=tw-nytimes&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+California's drought is now even more horrible.
+Filename :333
+http://www.slate.com/blogs/future_tense/2015/01/29/california_s_drought_is_now_even_more_horrible.html?wpsrc=fol_tw
+Sentiment(polarity=0.019288891042622387, subjectivity=0.4354350541663974)
+
+Take action to transition Oregon from coal to clean energy!
+Filename :338
+https://secure.sierraclub.org/site/Advocacy?pagename=homepage&page=UserAction&id=14816&autologin=true&s_src=TWad
+Sentiment(polarity=0.1827042748917749, subjectivity=0.4261769480519481)
+
+Climate Change Could Cause 18 Percent Drop In Food Production By 2050, Study Says
+Filename :339
+http://www.huffingtonpost.com/2014/12/18/climate-change-food-production_n_6349164.html
+Sentiment(polarity=-0.00356858054226475, subjectivity=0.4800637958532695)
+
+Sec. Albright & Sec. Shultz On National Security, Climate Change & the Arctic « The Center for Climate & Security
+Filename :340
+http://climateandsecurity.org/2015/01/30/sec-albright-sec-shultz-on-national-security-climate-change-the-arctic/?utm_content=buffer38c34&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.09062451437451438, subjectivity=0.3505681818181818)
+
+Climate change is lifting Iceland – and it could mean more volcanic eruptions
+Filename :342
+http://www.theguardian.com/environment/2015/jan/30/climate-change-lifting-iceland-volcanic-eruptions
+Sentiment(polarity=0.08551544011544011, subjectivity=0.3876144300144299)
+
+Taking the Temperature (Part 11) with Dr. Katharine Hayhoe › Guest Blog
+Filename :343
+http://www.scilogs.com/guest_blog/climate-change-communication-taking-the-temperature-part-11-with-dr-katharine-hayhoe/
+Sentiment(polarity=0.1506886494818313, subjectivity=0.47329019414928514)
+
+Climate Change’s Bottom Line
+Filename :344
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=1
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Excuse #64 For The ‘Pause’ In Global Warming: It’s Pure Luck
+Filename :345
+http://dailycaller.com/2015/01/30/excuse-64-for-the-pause-in-global-warming-its-pure-luck/
+Sentiment(polarity=0.01592532467532468, subjectivity=0.3621915584415584)
+
+Global Warming: What Should Be Done?
+Filename :346
+http://www.nytimes.com/interactive/2015/01/29/us/global-warming-poll.html?smid=tw-share&utm_content=buffera09b3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&_r=0
+Sentiment(polarity=0.06146601146601149, subjectivity=0.28506688506688505)
+
+Sport issued with climate warning at Australian Open
+Filename :348
+http://www.rtcc.org/2015/01/30/sport-issued-with-climate-warning-at-australian-open/
+Sentiment(polarity=0.11065, subjectivity=0.3767666666666667)
+
+Public Discourse and Climate Change Opinions
+Filename :349
+http://theenergycollective.com/davidhone/2188671/talking-about-climate-change?utm_source=hootsuite&utm_medium=twitter&utm_campaign=hootsuite_tweets
+Sentiment(polarity=0.12353466168534663, subjectivity=0.4676650062266501)
+
+The World Can Live Better And Fight Climate Change, UK Report Says
+Filename :350
+http://www.huffingtonpost.com/2015/01/28/fight-climate-change_n_6562264.html?utm_hp_ref=mostpopular
+Sentiment(polarity=0.12384370015948966, subjectivity=0.4141547049441786)
+
+Tell Gov. Brown to end fracking in California NOW!
+Filename :352
+http://signforgood.com/endfrackinginca/?sp_ref=98409783.270.11316.t.44174.2
+Sentiment(polarity=0.11662504162504163, subjectivity=0.357126207126207)
+
+UNU-WIDER
+Filename :354
+https://t.co/MBys3uJShR
+Sentiment(polarity=0.10055555555555555, subjectivity=0.3055555555555556)
+
+Arguing climate change is 'kind of nuts'
+Filename :358
+http://www.azcentral.com/story/news/local/phoenix/2015/01/07/epa-head-addresses-climate-change-science-conference/21397167/
+Sentiment(polarity=0.1924603174603174, subjectivity=0.4725396825396826)
+
+Climate Change Infographic
+Filename :360
+http://uk.businessinsider.com/climate-change-infographic-2015-1
+Sentiment(polarity=0.12170745920745919, subjectivity=0.3891317016317017)
+
+It's Not Too Late To Stop Climate Change, And It'll Be Super-Cheap
+Filename :362
+http://thinkprogress.org/climate/2015/01/29/3616382/solving-climate-change-cheap/?utm_content=buffer85b1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.12260129383724884, subjectivity=0.4751392739594987)
+
+Climate Change’s Bottom Line
+Filename :363
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?partner=socialflow&smid=tw-nytimes&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+The massive scale of California’s drought, and how it informs the climate change debate
+Filename :371
+http://www.washingtonpost.com/blogs/the-fix/wp/2015/01/23/the-massive-scale-of-californias-drought-and-how-it-informs-the-climate-change-debate/
+Sentiment(polarity=0.03763440860215053, subjectivity=0.4428763440860215)
+
+EPA chief heads to Vatican to talk climate
+Filename :373
+http://thehill.com/policy/energy-environment/230851-epa-chief-heads-to-vatican-to-talk-climate
+Sentiment(polarity=0.09732142857142857, subjectivity=0.3747023809523809)
+
+Rinnovabili battono carbone 2 a 1 in Cina e Obama accelera sul clima
+Filename :374
+http://www.qualenergia.it/articoli/20150129-rinnovabili-battono-carbone-2-1-in-cina-e-obama-accelera-sul-clima
+Sentiment(polarity=0.0047619047619047545, subjectivity=0.35595238095238096)
+
+Poll: Most back federal action on climate change
+Filename :375
+http://thehill.com/policy/energy-environment/231247-poll-majority-support-federal-action-on-climate-change
+Sentiment(polarity=0.11522578728461082, subjectivity=0.3900772430184194)
+
+Venereal Disease, Taxes, But Not Climate Change: Where Disney Draws The Line On PSAs
+Filename :377
+http://thinkprogress.org/culture/2015/01/28/3615987/venereal-disease-taxes-not-climate-change-disney-draws-line-psas/
+Sentiment(polarity=0.12468269907882017, subjectivity=0.47949055574055605)
+
+Climate Change’s Bottom Line
+Filename :379
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?smprod=nytcore-iphone&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Does global warming mean more or less snow?
+Filename :38
+http://northdenvernews.com/?p=16227
+Sentiment(polarity=0.10604582037680632, subjectivity=0.4982689317724529)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :381
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?_r=1
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+It's Not Too Late To Stop Climate Change, And It'll Be Super-Cheap
+Filename :382
+http://thinkprogress.org/climate/2015/01/29/3616382/solving-climate-change-cheap/
+Sentiment(polarity=0.12260129383724884, subjectivity=0.4751392739594987)
+
+CSIRO, BOM research shows how climate change will affect Australia
+Filename :387
+http://www.news.com.au/technology/environment/csiro-bom-research-shows-how-climate-change-will-affect-australia/story-fnjwvztl-1227199465014
+Sentiment(polarity=0.17885043988269797, subjectivity=0.4774064841968067)
+
+Our Changing Climate 2
+Filename :389
+http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/hawaii/explore/our-changing-climate-2.xml?utm_campaign=social.nature&utm_medium=social&utm_source=facebook&utm_content=1421107280
+Sentiment(polarity=0.13774305555555552, subjectivity=0.4698958333333334)
+
+Chemtrails, Climate Engineering, Weather Warfare and Global Warming
+Filename :390
+http://www.globalresearch.ca/chemtrails-climate-engineering-and-weather-warfare/5390207
+Sentiment(polarity=-0.00471014492753622, subjectivity=0.6213768115942029)
+
+3 Big Challenges for Latin America's Electricity Sector, 3 Big Strategies for a Successful Future
+Filename :391
+http://www.huffingtonpost.com/jake-levine/3-big-challenges-for-lati_b_5276684.html
+Sentiment(polarity=0.127920977327757, subjectivity=0.4216484151441777)
+
+The First Super Bowl Played Under LEDs Will Use 75 Percent Less Power
+Filename :392
+http://gizmodo.com/the-first-super-bowl-played-under-leds-will-use-75-perc-1682559078
+Sentiment(polarity=0.1186423054070113, subjectivity=0.4943033273915627)
+
+Researchers worry that climate change will accelerate melting of Andes glaciers
+Filename :393
+http://www.bluechannel24.com/?p=28166
+Sentiment(polarity=0.04935471738663228, subjectivity=0.4312842004331366)
+
+Bering Sea researchers talk climate change
+Filename :394
+http://www.thebristolbaytimes.com/article/1505bering_sea_researchers_talk_climate_change
+Sentiment(polarity=0.1132703798548869, subjectivity=0.3504513444302177)
+
+EPA chief heads to Vatican to talk climate
+Filename :398
+http://thehill.com/policy/energy-environment/230851-epa-chief-heads-to-vatican-to-talk-climate
+Sentiment(polarity=0.09732142857142857, subjectivity=0.3747023809523809)
+
+24 quotes on climate change from Davos 2015
+Filename :4
+https://agenda.weforum.org/2015/01/24-quotes-on-climate-change-from-davos-2015/?utm_content=bufferf0012&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.02279352481733434, subjectivity=0.4363107835726884)
+
+World's cities experiencing more heatwaves, study shows
+Filename :40
+http://www.theguardian.com/environment/2015/jan/30/worlds-cities-experiencing-more-heatwaves-study-shows
+Sentiment(polarity=0.1411494925839188, subjectivity=0.5037470725995314)
+
+UC Davis to help in UC effort to study effects of climate change on ecosystems
+Filename :402
+http://news.ucdavis.edu/search/news_detail.lasso?id=11116#.VMWQgF1SkNk.twitter
+Sentiment(polarity=0.1541187032664306, subjectivity=0.45058416961826053)
+
+Iceland rises as its glaciers melt from climate change -- ScienceDaily
+Filename :403
+http://www.sciencedaily.com/releases/2015/01/150129113719.htm
+Sentiment(polarity=0.0781269325912183, subjectivity=0.3847924397031539)
+
+Arctic glacier’s galloping melt baffles scientists
+Filename :404
+http://www.climatenewsnetwork.net/arctic-glaciers-galloping-melt-baffles-scientists/
+Sentiment(polarity=0.05813383838383839, subjectivity=0.372270202020202)
+
+The Climate Science Behind New England's Historic Blizzard
+Filename :405
+http://thinkprogress.org/climate/2015/01/26/3615330/blizzards-climate-scientists/
+Sentiment(polarity=0.07187352166733608, subjectivity=0.5026519614406214)
+
+Climate models don't over-predict warming, study shows
+Filename :406
+http://www.latimes.com/science/sciencenow/la-sci-sn-climate-models-predict-warming-20150128-story.html
+Sentiment(polarity=0.03703991258339084, subjectivity=0.41210605014952834)
+
+Water privatisation: a worldwide failure?
+Filename :411
+http://www.theguardian.com/global-development/2015/jan/30/water-privatisation-worldwide-failure-lagos-world-bank
+Sentiment(polarity=0.03707560440800665, subjectivity=0.38346014010818485)
+
+[INFOGRAPHIC] The Impact of Recycling
+Filename :413
+http://www.environmentguru.com/pages/elements/element.aspx?id=1826383&utm_source=dlvr.it&utm_medium=twitter&utm_campaign=Feed%3A+News-Waste+%28Waste+News%29
+Sentiment(polarity=0.11128787878787878, subjectivity=0.3539772727272727)
+
+Rocket blasts off with NASA satellite to track climate change
+Filename :415
+http://www.reuters.com/article/2015/01/31/us-space-nasa-launch-idUSKBN0L40KX20150131?feedType=RSS&feedName=environmentNews
+Sentiment(polarity=-0.050231435231435244, subjectivity=0.394945054945055)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :416
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?smprod=nytcore-iphone&smid=nytcore-iphone-share&_r=0
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :419
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?smid=tw-share&_r=0
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+The Gap Between Public and Scientific Opinion
+Filename :42
+http://theness.com/neurologicablog/index.php/the-gap-between-public-and-scientific-opinion/
+Sentiment(polarity=0.0954775634812948, subjectivity=0.5057702558635395)
+
+Climate Change’s Bottom Line
+Filename :420
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=1
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+How the Shock Doctrine is being applied to Greece -- Puppet Masters -- Sott.net
+Filename :422
+http://www.sott.net/article/291859-How-the-Shock-Doctrine-is-being-applied-to-Greece?utm_source=twitterfeed&utm_medium=twitter
+Sentiment(polarity=-0.017561241668384527, subjectivity=0.5127548873084586)
+
+Science Standards Divide a State Built on Coal and Oil
+Filename :423
+http://www.nytimes.com/2014/05/19/us/science-standards-divide-a-state-built-on-coal-and-oil.html?partner=rssnyt&emc=rss&_r=0
+Sentiment(polarity=0.12399060289304194, subjectivity=0.38028032942667095)
+
+NASA satellite to measure water in Earth's soil sent into orbit
+Filename :424
+http://uk.reuters.com/article/2015/01/31/uk-space-nasa-launch-idUKKBN0L40KR20150131
+Sentiment(polarity=0.07627319109461968, subjectivity=0.4905442176870748)
+
+Iceland Rises as Its Glaciers Melt From Climate Change
+Filename :425
+http://uanews.org/story/iceland-rises-as-its-glaciers-melt-from-climate-change
+Sentiment(polarity=0.0781269325912183, subjectivity=0.3847924397031539)
+
+Who's been affected by Australia's extreme heat? Everyone
+Filename :429
+http://phys.org/news/2015-01-affected-australia-extreme.html
+Sentiment(polarity=0.08397405372405371, subjectivity=0.42548915187376707)
+
+BP sells off Gulf of Mexico stakes to raise cash and reduce risk
+Filename :43
+http://www.theguardian.com/business/2015/jan/28/bp-sells-gulf-of-mexico-stakes-chevron-deepwater-horizon
+Sentiment(polarity=0.044235321969696956, subjectivity=0.4476680871212121)
+
+Tell Gov. Brown to end fracking in California NOW!
+Filename :430
+http://signforgood.com/endfrackinginca/?sp_ref=98427121.270.11316.t.44174.2
+Sentiment(polarity=0.11662504162504163, subjectivity=0.357126207126207)
+
+Climate Change’s Bottom Line
+Filename :431
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?smid=nytcore-iphone-share&smprod=nytcore-iphone&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Who's been affected by Australia's extreme heat? Everyone
+Filename :432
+http://phys.org/news/2015-01-affected-australia-extreme.html
+Sentiment(polarity=0.08397405372405371, subjectivity=0.42548915187376707)
+
+Global Warming: The Inevitability Trap
+Filename :434
+http://www.huffingtonpost.com/paul-loeb/global-warming-the-inevit_b_5274788.html
+Sentiment(polarity=-0.009864489970123774, subjectivity=0.5449408572648009)
+
+Obama And Modi Are Buddies, But Will The Climate Care?
+Filename :435
+http://www.climatecentral.org/news/obama-modi-future-of-climate-change-18597
+Sentiment(polarity=0.0958738879026649, subjectivity=0.3822155366615799)
+
+The Making of a Climate Refugee
+Filename :436
+http://foreignpolicy.com/2015/01/28/the-making-of-a-climate-refugee-kiribati-tarawa-teitiota/
+Sentiment(polarity=0.05879605899055617, subjectivity=0.4091337341764289)
+
+Picky eaters — like penguins and my cousin Jables — could starve under climate change
+Filename :437
+http://grist.org/news/picky-eaters-like-penguins-and-my-cousin-jables-could-starve-under-climate-change/
+Sentiment(polarity=-0.012974025974025962, subjectivity=0.39132467532467546)
+
+Can climate change drive political change?
+Filename :438
+http://www.dailydemocrat.com/editorials/ci_27425617/can-climate-change-drive-political-change
+Sentiment(polarity=0.11529421196087865, subjectivity=0.355002290478481)
+
+Climate change is lifting Iceland – and it could mean more volcanic eruptions
+Filename :439
+http://www.theguardian.com/environment/2015/jan/30/climate-change-lifting-iceland-volcanic-eruptions?CMP=share_btn_tw
+Sentiment(polarity=0.08551544011544011, subjectivity=0.3876144300144299)
+
+Engage Your Business: Fight Climate Change
+Filename :440
+http://www.rainforest-alliance.org/climate/
+Sentiment(polarity=0.13709447661060561, subjectivity=0.4286485617130779)
+
+Climate Change’s Bottom Line
+Filename :441
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :443
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?smid=tw-share&_r=0
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+Your Drop in The Bucket Counts – Climate Change and The Economy — BLUEdot register
+Filename :444
+http://www.bluedotregister.org/carbon-copy/2014/10/1/your-drop-in-the-bucket-counts-climate-change-and-the-economy?utm_content=buffer82773&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.08256172839506173, subjectivity=0.44475308641975314)
+
+Climate Change Melting Glaciers In Iceland, Raising It Out of Water, Finds New Study
+Filename :445
+http://www.ibtimes.com/climate-change-melting-glaciers-iceland-raising-it-out-water-finds-new-study-1801360
+Sentiment(polarity=0.08708994708994709, subjectivity=0.35165013227513237)
+
+Climate Change’s Bottom Line
+Filename :446
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?partner=rssnyt&emc=rss&utm_medium=twitter&utm_source=twitterfeed&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Climate change is lifting Iceland – and it could mean more volcanic eruptions
+Filename :447
+http://www.theguardian.com/environment/2015/jan/30/climate-change-lifting-iceland-volcanic-eruptions
+Sentiment(polarity=0.08551544011544011, subjectivity=0.3876144300144299)
+
+Nigerian Student Converts His VW Beetle Into a Solar and Wind Powered Car
+Filename :448
+http://www.nationofchange.org/2015/01/31/nigerian-student-converts-vw-beetle-solar-wind-powered-car/
+Sentiment(polarity=0.2418686868686869, subjectivity=0.49196969696969695)
+
+World's cities experiencing more heatwaves, study shows
+Filename :451
+http://www.theguardian.com/environment/2015/jan/30/worlds-cities-experiencing-more-heatwaves-study-shows
+Sentiment(polarity=0.1411494925839188, subjectivity=0.5037470725995314)
+
+Amazing Photography Collective Brings Images of Climate Change to the World
+Filename :453
+http://www.onegreenplanet.org/news/photography-collective-brings-images-of-climate-change-to-the-world/
+Sentiment(polarity=0.1179487179487179, subjectivity=0.5838827838827839)
+
+Climate Change’s Bottom Line
+Filename :456
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Venereal Disease, Taxes, But Not Climate Change: Where Disney Draws The Line On PSAs
+Filename :457
+http://thinkprogress.org/culture/2015/01/28/3615987/venereal-disease-taxes-not-climate-change-disney-draws-line-psas/
+Sentiment(polarity=0.12468269907882017, subjectivity=0.47949055574055605)
+
+Climate Change’s Bottom Line
+Filename :459
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?smid=tw-share&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Colorado fracking ban scorecard: 3 ruled illegal, 2 remain
+Filename :461
+http://www.bizjournals.com/denver/blog/earth_to_power/2014/08/colorado-fracking-ban-roundup-shows-3-ruled.html
+Sentiment(polarity=-0.08444444444444445, subjectivity=0.28388888888888886)
+
+WHO Director-General address the Executive Board
+Filename :462
+http://www.who.int/dg/speeches/2015/136-executive-board/en/
+Sentiment(polarity=0.11765824488540227, subjectivity=0.38220180411804805)
+
+Obama ignores Obama on climate change
+Filename :465
+http://grist.org/climate-energy/obama-ignores-obama-on-climate-change/
+Sentiment(polarity=0.08975775272945086, subjectivity=0.3801311633858804)
+
+Eco Climate Solutions
+Filename :466
+http://ecoclimatesolutions.com/2014/10/the-wolf-takes-action-with-2-million-donation-to-save-the-ocean/
+Sentiment(polarity=-0.010023310023310028, subjectivity=0.5104229104229103)
+
+Oil is an Economic Activity
+Filename :467
+https://t.co/S09JNLvzrx
+Sentiment(polarity=0.07510837796854743, subjectivity=0.39873645657543944)
+
+How Eon's Transformation Will Change The Energy Debate In Europe
+Filename :469
+http://cleantechnica.com/2015/01/31/eons-transformation-will-change-energy-debate-europe/
+Sentiment(polarity=0.12492046943881807, subjectivity=0.5204218793438976)
+
+FOUNDER OF WEATHER CHANNEL EXPLAINS GLOBAL WARMING HOAX #ClimateChange #GlobalWarming #news #teaparty #o4a
+Filename :471
+http://overpassesforamerica.com/?p=4544
+Sentiment(polarity=0.1004357993197279, subjectivity=0.3957256235827664)
+
+24 quotes on climate change from Davos 2015
+Filename :476
+https://t.co/AGFKWj7crS
+Sentiment(polarity=0.02279352481733434, subjectivity=0.4363107835726884)
+
+Why global water shortages pose threat of terror and war
+Filename :478
+http://www.theguardian.com/environment/2014/feb/09/global-water-shortages-threat-terror-war?CMP=share_btn_tw
+Sentiment(polarity=0.025540052234267113, subjectivity=0.40984669600372076)
+
+10 signs the stars are aligning for a climate deal in Paris
+Filename :48
+http://www.theguardian.com/environment/2015/jan/21/10-signs-stars-are-aligning-for-climate-deal-paris?CMP=share_btn_tw
+Sentiment(polarity=0.09496244496244495, subjectivity=0.35204933954933953)
+
+Climate Change’s Bottom Line
+Filename :481
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Eco Climate Solutions
+Filename :482
+http://ecoclimatesolutions.com/2014/09/britain-faces-an-energy-crisis/
+Sentiment(polarity=-0.00783730158730159, subjectivity=0.35292658730158727)
+
+How China's Filthy Air Is Screwing With Our Weather
+Filename :486
+http://www.citylab.com/weather/2015/01/how-chinas-filthy-air-is-screwing-with-our-weather/385046/
+Sentiment(polarity=0.08233247105198324, subjectivity=0.4550197092880021)
+
+Rocket blasts off with NASA satellite to track climate change
+Filename :487
+http://www.reuters.com/article/2015/01/31/space-nasa-launch-idUSL1N0VA0CL20150131
+Sentiment(polarity=-0.0033038173947264817, subjectivity=0.37584415584415587)
+
+Here Are All The Extra Provisions Attached To The Senate's Keystone XL Bill
+Filename :489
+http://thinkprogress.org/climate/2015/01/29/3617045/keystone-xl-amendments/
+Sentiment(polarity=0.10119591215481627, subjectivity=0.4511198086540553)
+
+Now The Feds Want To Regulate Your Fireplace
+Filename :49
+http://dailycaller.com/2015/01/30/fireplace-regulation-global-warming/
+Sentiment(polarity=0.045740209403000096, subjectivity=0.3845917648243229)
+
+The link between climate change and poverty
+Filename :490
+http://www.globalcitizen.org/Content/Content.aspx?id=8fbe6c55-c65e-4580-a410-b397aa5e51f2
+Sentiment(polarity=-0.003184523809523804, subjectivity=0.45685897435897427)
+
+Is Carbon Capture and Storage a Good Thing? – Sustainable Energy for the Future
+Filename :492
+https://sustainableenergyforthefuture.wordpress.com/2015/01/31/is-carbon-capture-and-storage-a-good-thing/
+Sentiment(polarity=0.097346773259182, subjectivity=0.46735604217356036)
+
+10 signs the stars are aligning for a climate deal in Paris
+Filename :494
+http://www.theguardian.com/environment/2015/jan/21/10-signs-stars-are-aligning-for-climate-deal-paris?CMP=share_btn_tw
+Sentiment(polarity=0.09496244496244495, subjectivity=0.35204933954933953)
+
+Climate Change’s Bottom Line
+Filename :50
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+IOM Outlook on Migration, Environment and Climate Change « The Center for Climate & Security
+Filename :501
+http://climateandsecurity.org/2015/01/27/review-iom-outlook-on-migration-environment-and-climate-change/
+Sentiment(polarity=0.03719603441825664, subjectivity=0.3689915023248356)
+
+Seven Reasons Cheap Oil Can't Stop Solar Power Anymore
+Filename :502
+http://www.bloomberg.com/news/articles/2015-01-30/seven-reasons-cheap-oil-can-t-stop-renewables-now
+Sentiment(polarity=0.1117907994782995, subjectivity=0.4197124888999891)
+
+Climate Change Superheroes: Divesting Coal in India, and Saving Forests
+Filename :503
+http://www.huffingtonpost.com/mary-ellen-harte/climate-change-superheroe_b_5284303.html
+Sentiment(polarity=0.0939055334104839, subjectivity=0.3945947451888046)
+
+inequality and climate change top challenges
+Filename :504
+https://agenda.weforum.org/2015/01/inequality-and-climate-change-twin-challenges-of-2015/?utm_content=bufferaba24&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.09029542739220159, subjectivity=0.41175735853155215)
+
+Nuclear Power Needs to Double to Curb Global Warming
+Filename :505
+http://www.scientificamerican.com/article/nuclear-power-needs-to-double-to-curb-global-warming/
+Sentiment(polarity=0.1294114547732969, subjectivity=0.40801520847573464)
+
+The Carbon Footprint of the Keystone XL — BLUEdot register
+Filename :506
+http://www.bluedotregister.org/carbon-copy/2015/1/11/a-long-pipeline-and-a-big-foot-the-carbon-footprint-of-the-keystone-xl?utm_content=buffer8d63b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=-0.09862764550264551, subjectivity=0.4628306878306879)
+
+Is It Safe to Be a Climate Scientist?
+Filename :507
+http://m.livescience.com/49641-fear-permeates-climate-science.html
+Sentiment(polarity=0.11917676767676767, subjectivity=0.4224037074037073)
+
+State Department official wants to use Frozen to teach kids about climate change
+Filename :508
+http://theweek.com/speedreads/535473/state-department-official-wants-use-frozen-teach-kids-about-climate-change
+Sentiment(polarity=0.1353174603174603, subjectivity=0.4302579365079365)
+
+Asia's Cities Poised to Lead in Climate Change Adaptation
+Filename :510
+http://asiafoundation.org/in-asia/2015/01/28/asias-cities-poised-to-lead-in-climate-change-adaptation/
+Sentiment(polarity=0.01690773475495698, subjectivity=0.34845772540216985)
+
+Obama ignores Obama on climate change
+Filename :511
+http://grist.org/climate-energy/obama-ignores-obama-on-climate-change/
+Sentiment(polarity=0.08975775272945086, subjectivity=0.3801311633858804)
+
+Las olas de calor urbanas han aumentado un 48 por ciento desde 1973
+Filename :52
+http://www.europapress.es/ciencia/habitat-y-clima/noticia-olas-calor-urbanas-aumentado-48-ciento-1973-20150130124742.html#.VM0wI_i3BqQ.twitter
+Sentiment(polarity=0.02500000000000001, subjectivity=0.25)
+
+Tell Gov. Brown to end fracking in California NOW!
+Filename :54
+http://signforgood.com/endfrackinginca/?sp_ref=98407898.270.11316.t.44174.2
+Sentiment(polarity=0.11662504162504163, subjectivity=0.357126207126207)
+
+Climate Change Will Hit Australia the Hardest, Study Says
+Filename :55
+http://www.climatecentral.org/news/climate-change-will-hit-australia-hardest-18605
+Sentiment(polarity=0.13729439252336448, subjectivity=0.5365529595015577)
+
+Experts: Include Ocean Acidification in Climate Change Negotiations
+Filename :56
+https://www.iaea.org/newscenter/news/experts-include-ocean-acidification-climate-change-negotiations?utm_content=bufferb7bf4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.13775464731347084, subjectivity=0.34117328749681686)
+
+EPA Administrator Gina McCarthy Meets With Vatican Officials About Climate Change
+Filename :6
+http://www.huffingtonpost.com/2015/01/30/epa-vatican-climate-change_n_6580098.html
+Sentiment(polarity=0.1621361397223466, subjectivity=0.3437378713240782)
+
+FOUNDER OF WEATHER CHANNEL EXPLAINS GLOBAL WARMING HOAX #ClimateChange #GlobalWarming #news #teaparty #o4a
+Filename :60
+http://overpassesforamerica.com/?p=4544
+Sentiment(polarity=0.1004357993197279, subjectivity=0.3957256235827664)
+
+Naomi Klein On Why 2015 Is A Once-In-A-Generation Moment For Climate Change
+Filename :64
+https://t.co/eAQ274rQlv
+Sentiment(polarity=0.12769038473263827, subjectivity=0.4635258520821902)
+
+24 quotes on climate change from Davos 2015
+Filename :65
+https://agenda.weforum.org/2015/01/24-quotes-on-climate-change-from-davos-2015/?utm_content=bufferf0012&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.02279352481733434, subjectivity=0.4363107835726884)
+
+UK flooding pushes public acceptance of manmade climate change to five-year high
+Filename :66
+http://www.carbonbrief.org/blog/2015/01/uk-flooding-pushes-public-acceptance-of-manmade-climate-change-to-five-year-high/?utm_term=0_876aab4fd7-a018b94607-303426957&utm_content=buffer97d93&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.13988908272490364, subjectivity=0.42160216234843106)
+
+24 quotes on climate change from Davos 2015
+Filename :67
+https://agenda.weforum.org/2015/01/24-quotes-on-climate-change-from-davos-2015/?utm_content=buffer1f3e8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.02279352481733434, subjectivity=0.4363107835726884)
+
+The Hidden Impact of 93 Million Cows on America’s Health, Economy, Politics, Culture, and Environment
+Filename :68
+http://www.amazon.com/Cowed-Million-America-2019s-Politics-Environment/dp/0393239942
+Sentiment(polarity=0.01553030303030304, subjectivity=0.36590909090909096)
+
+Most Republicans Say They Back Climate Action, Poll Finds
+Filename :69
+http://www.nytimes.com/2015/01/31/us/politics/most-americans-support-government-action-on-climate-change-poll-finds.html?_r=0
+Sentiment(polarity=0.08434074790457771, subjectivity=0.3867504835589945)
+
+Climate Change’s Bottom Line
+Filename :70
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?hp&action=click&pgtype=Homepage&module=second-column-region&region=top-news&WT.nav=top-news&_r=1&utm_content=buffer9cd3f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+For green, comfortable homes, Mali turns to mud
+Filename :73
+http://www.reuters.com/article/2015/01/29/us-climate-architecture-idUSKBN0L21VX20150129?feedType=RSS&feedName=environmentNews
+Sentiment(polarity=0.09269781144781143, subjectivity=0.44518097643097637)
+
+These New Polls Show Why Americans Should Believe Climate Scientists In 30 Years
+Filename :74
+http://thinkprogress.org/climate/2015/01/30/3617489/polls-show-americans-disagree-with-scientists/
+Sentiment(polarity=0.028020956316410873, subjectivity=0.3870363046044865)
+
+Journalism & Communication for Global Change
+Filename :75
+http://www.ipsnews.net/news/projects/caribbean-climate-wire
+Sentiment(polarity=0.20024943310657592, subjectivity=0.4650566893424037)
+
+Climate change could impact the poor much more than previously thought
+Filename :76
+http://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/jan/26/climate-change-could-impact-poor-much-more-than-previously-thought?CMP=share_btn_tw
+Sentiment(polarity=0.13632663632663625, subjectivity=0.398759388759389)
+
+Climate Change’s Bottom Line
+Filename :78
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?smprod=nytcore-ipad&smid=nytcore-ipad-share&_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Climate Change’s Bottom Line
+Filename :79
+http://www.nytimes.com/2015/02/01/business/energy-environment/climate-changes-bottom-line.html?_r=0
+Sentiment(polarity=0.06921206578249724, subjectivity=0.3729599250157625)
+
+Volcanoes and Climate Change
+Filename :85
+http://time.com/3687893/volcanoes-climate-change/
+Sentiment(polarity=0.040776530739493715, subjectivity=0.39840416510786875)
+
+Papa Francesco: “Col pane non si scherza, non vendere la madre terra”
+Filename :86
+http://www.fanpage.it/papa-francesco-col-pane-non-si-scherza-non-vendere-la-madre-terra/
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+How To Convince Conservative Christians That Global Warming Is Real
+Filename :9
+http://www.motherjones.com/environment/2014/05/inquiring-minds-katharine-hayhoe-faith-climate
+Sentiment(polarity=0.0585467772967773, subjectivity=0.4542441354941356)
+
+Climate change is lifting Iceland – and it could mean more volcanic eruptions
+Filename :91
+http://www.rawstory.com/rs/2015/01/climate-change-is-lifting-iceland-and-it-could-mean-more-volcanic-eruptions/
+Sentiment(polarity=0.05820296561675872, subjectivity=0.4107308304722097)
+
+Bill Nye The Science Guy Tackles DeflateGate from Funny Or Die, Alex Richanbach, Michael Burke, Matt Sweeney, Eleanor Winkler, and Dan Bernstein
+Filename :92
+http://www.funnyordie.com/videos/3d0c94936c/bill-nye-addresses-deflategate
+Sentiment(polarity=-0.04166666666666667, subjectivity=0.4723484848484848)
+
+The age of us
+Filename :94
+https://theconversation.com/columns/matthew-nisbet-114648
+Sentiment(polarity=0.12340358471937414, subjectivity=0.3631191615402142)
+
+Scotland Just Announced An Indefinite Ban On Fracking
+Filename :95
+http://thinkprogress.org/climate/2015/01/28/3616690/scotland-bans-fracking/
+Sentiment(polarity=0.12010212010212012, subjectivity=0.4546240796240795)
+
+PBS Newshour takes top spot for serious reporting on climate change
+Filename :96
+http://www.dailykos.com/story/2015/01/30/1361217/-PBS-Newshour-takes-top-spot-for-serious-reporting-on-climate-change
+Sentiment(polarity=0.09213801780874954, subjectivity=0.481812814556717)
+
+The First Super Bowl Played Under LEDs Will Use 75 Percent Less Power
+Filename :Filename :10
+http://gizmodo.com/the-first-super-bowl-played-under-leds-will-use-75-perc-1682559078
+Sentiment(polarity=0.06874849687349686, subjectivity=0.3038987343674846)
+

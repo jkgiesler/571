@@ -1,0 +1,37 @@
+Global supply chain still yawns at climate risks, CDP finds
+582
+http://www.greenbiz.com/article/worlds-supply-chain-companies-lagging-climate-resilience-cdp-says
+
+Climate change warnings keep growing more dire, and the world's business leaders now even cite water crises and extreme weather as top economic risks. And yet the supply chains leading to many of the world's biggest companies reflect only middling attention to these issues.
+
+That's the conclusion of a new report by CDP, formerly known as the Carbon Disclosure Project, and Accenture Strategy, which was informed by responses from 3,396 supply chain companies that sell goods or services to 66 of the world’s largest multinational corporations. Those multinationals, including companies like Microsoft, L'Oreal and Coca-Cola, are part of CDP's Supply Chain Program and procure $1.3 trillion worth of goods and services.
+
+Most supply chain companies around the world are making “marginal or no improvements” in developing sustainable practices and climate resiliency, according to the report entitled “Supply Chain Sustainability Revealed: A Country Comparison.” Only 22 percent of supply chain companies are implementing low-carbon energy projects. About 55 percent have assessed their water risks, even though droughts and floods are increasingly common.
+
+“What is concerning is that, despite the increase in the number of companies assessing and reporting on their emissions, the data suggests that suppliers are making either marginal or no improvements,” said Gary Hanifan, managing director of Accenture Strategy.
+
+That's a problem, since supply chain risks have been compounded by globalization and the increasing interconnectedness of environmental issues and economic stability.
+
+Christina Figueres, executive secretary of the UN Framework Convention on Climate Change, in an introduction to the report seemed to hand the guantlet to the multinationals procuring the trillion dollars worth of goods.
+
+“Modern businesses depend on supply chains stretching around the globe," she wrote. "They appreciate that floods thousands of miles away, or drought striking a distant watershed, can make the difference between their own profit and loss."
+
+Ironically, it is suppliers in the countries with the highest carbon emissions, China and the United States, along with suppliers in Brazil and Italy, which are lagging farthest behind. Supply chain companies in Japan, by comparison, have done the most to build resiliency and sustainability into their operations. European-based suppliers also get good grades from the CDP report:
+
+Of course, there are always exceptions. A list of "Supplier Climate Performance Leaders" included in the report is dominated by U.S. companies like Bloomberg, General Motors, Stanley Black & Decker, the Standard Register Company, Microsoft, Adobe, Google, Juniper Networks, Akamai Networks, Accenture and many others.
+
+The CDP report also highlights a few standout corporate initiatives: Waste Management, Inc., for example, aims to reduce its scope 1 and mobile GHG emissions 15 percent by 2020; materials firm DuPont is targeting a 15 percent reduction from 2004 levels by 2015. Although the report spotlights leaders in supply chain sustainability, it's worth noting that it does not name those that received lower marks.
+
+Even Brazil, where a high-ranking government official recently garnered attention for denying climate change, has some standouts. Brazilian food processor Marfrig, for example, has launched a web-based global data collection system to support its carbon management.
+
+Indeed, the report puts the blame for inaction on climate on government policies, noting that where regulation is lax, so too is company planning for sustainability and resilience. Mixed signals from the energy market — plummeting oil prices in tandem with a budding market for solar energy, for example — aren't helping to incentivize low-carbon initiatives.
+
+"The story behind the data is clear: where there is regulatory certainty around measurement and reporting, such as in Japan or France, high percentages of suppliers also disclose – even when they are not explicitly captured by regulation," the report explains. "Where the signals from government are weak or non-existent – such as in Brazil, China, India and the US – reporting levels are disappointing."
+
+The UN's Figueres frames the issue as an opportunity for both suppliers and the large companies selling finished products.
+
+“Forward-looking companies... appreciate that successful, resilient suppliers are good for business," she wrote in the report. "In turn, suppliers have come to realize that improved performance can confer competitive advantage — not only making them more efficient but also more attractive to sustainability-inclined customers."
+
+Ror supply chain companies that do invest in resiliency, the CDP also reports particularly high returns on investment for companies in China and India, both monetarily and when measured by emissions reductions.
+
+Finally, as one potentally positive indicator of what may be to come, CDP did see a huge jump in the number of respondents to their sustainability survey. The 3,396 supply chain companies that responded reflect a up 40 percent increase from the 2,800 that responded a year ago.

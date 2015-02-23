@@ -1,0 +1,69 @@
+Using Math Tools to Predict Plant Behavior
+415
+http://m.livescience.com/49558-mathematics-climate-change-plants.html?hootPostID=91365bf486d5e1d01c3534ded059375e
+
+Math Predicts How Climate Change Affects Plants
+
+Caroline Farrior studies the effect of wind storms and drought on forests.
+
+CREDIT: Caroline Farrior
+
+This ScienceLives article was provided to Live Science's Expert Voices: Op-Ed & Insights in partnership with the National Science Foundation.
+
+The interplay of plant communities and the processes that influence their evolution fascinate Caroline Farrior, who, as a postdoctoral fellow at the National Institute for Mathematical and Biological Synthesis, builds mathematical models to better understand and predict plant behavior. Of particular interest to her is how wind storms, drought and other rare environmental disturbances affect forests. Farrior wants to know how these events shape plant communities and how plants respond in the absence of disturbances, when they have already expended effort to prepare for these rare events. With this understanding, Farrior aims to help ecologists make better predictions about how climate change will affect plant communities in the future.
+
+Name: Caroline Farrior
+
+Age: 30
+
+Institution: National Institute for Mathematical and Biological Synthesis
+
+Hometown: Tulsa, Oklahoma
+
+Field of Study: Plant ecology
+
+The National Science Foundation: What is your field and why does it inspire you?
+
+Caroline Farrior: I am a plant ecologist. I study how plants interact as individuals and as species. They have thousands of years of evolutionary history shaping their genetic makeup, yet any one individual finds itself only in a particular and new environment in competition with specific individuals and species. Thinking about the influence of the depth of time on the individual plants in communities in front of me is absolutely inspiring. [When You Stray From a Trail, Invasive Species Follow ]
+
+NSF: Please describe your current research.
+
+C.F.: The effects of rare climatic events like drought and heavy winds have been historically difficult to study, precisely because of their rarity. These events nonetheless seem to play a fundamental role in shaping plant community composition and forest structure. Strategies that prepare plants for rare events can be costly in terms of growth and fecundity in the absence of the disturbance. I am currently developing the mathematical tools needed to examine the interactions between rare disturbances and competition among individuals, their influence on population dynamics, and ecosystem level properties.
+
+NSF: What is the primary aim of your research? / What is your primary professional goal?
+
+C.F.: Currently, our best estimates show that plants are taking up about one quarter of the carbon emitted by humans into the atmosphere. Plants make their bodies out of carbon. When there is more carbon in the atmosphere they can take up more of it, scrubbing, slowing the rate of increasing atmospheric carbon dioxide. However, we are not sure whether we will be able to count on plants to continue to do this in the future. For instance, we are not sure whether plants will become limited by other essential resources or how the changes in carbon storage of plants may interact with other changes across the globe, including increasing temperatures, changing rainfall regimes, and more frequent extreme climatic events. My goal is to build an understanding of the role of plants in the global carbon cycle so that as scientists we may be able to predict the path of climate change accurately.
+
+NSF: What is the biggest obstacle to achieving your objective(s)?
+
+C.F.: Ecology is a young science. We are still working out many very basic components of plants. At the same time, because of today’s pressing environmental issues, we are asked to answer many high level questions and apply our knowledge to solve today’s problems. Many of these questions are not a natural next step from our established knowledge, but they still need attention. To make real progress, there is a delicate balance that must be struck between doing the needed fundamental research and the applied work that updates our understanding for policymakers.
+
+NSF: How does your work benefit society?
+
+C.F.: I work toward a better understanding of the role of plants in the global carbon cycle . With this understanding, as scientists, we will be able to more accurately predict the pace of climate change in the future. With better predictions of the rate of climate change, politicians are more likely to be able to write and pass effective legislation to mitigate climate change.
+
+NSF: What do you like best about your work?
+
+C.F.: I love the feeling of understanding something complex. When the pieces come together from field observations or experiments with a prediction from a model, understanding can suddenly become clear. The best results are those that seem so obvious and simple after discovering them.
+
+NSF: What would your Tweet say about your work?
+
+C.F.: Interestingly, trees engage in game theory, with their investment in fine roots in competition for water and nitrogen, and wood in competition for light.
+
+NSF: What is the best professional advice you ever received?
+
+C.F.: Work on questions that interest you! This advice can never be said enough. If you are genuinely interested in the science you do, everything comes easier and the work is more fun. Let your curiosity drive you!
+
+If you're a topical expert — researcher, business leader, author or innovator — and would like to contribute an op-ed piece,
+
+If you're a topical expert — researcher, business leader, author or innovator — and would like to contribute an op-ed piece, email us here
+
+NSF: What exciting developments lie in the future for your field?
+
+C.F.: Plant ecologists have studied the aboveground biomass of individuals and their species for over a century now. But what goes on below ground is still largely a mystery. With new and more cost-effective technology for studying the identity of specific root fragments and the community composition of microbial symbionts, we are beginning to see below ground of plants with much greater resolution.
+
+NSF: What do you do when you’re not in the lab or out in the field?
+
+C.F.: When I’m not working, I like to get outside and go exploring. I’ll go hiking and see some new waterfalls or mountain views. Or I’ll go kayaking and try to clear my head while paddling on a quiet lake.
+
+Follow all of the Expert Voices issues and debates — and become part of the discussion — on Facebook, Twitter and Google+. See the ScienceLives archive. The views expressed are those of the author and do not necessarily reflect the views of the publisher. This version of the article was originally published on Live Science.
