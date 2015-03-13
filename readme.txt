@@ -9,3 +9,5 @@ The code directory has examples of how to use python for twitter streaming, sear
 This code is pretty rough. I wrote most of it in an afternoon, or copied and pasted it from other projects. I like writing stuff to text files for debugging.
 
 If you want to run this code you will need to register a twitter/instagram account and get your own private keys.
+
+Happiness vs GDP contains some analysis for another component of the project.
