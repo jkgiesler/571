@@ -1,3 +1,7 @@
+This project combines querying Twitter, extracting article text from URLS and NLP to try to find out what are the features of articles people choose to share about global warming on twitter. This project was started to answer a question posed in one of my classes.
+
+Explanation of files:
+
 Article processing example shows the different steps of processing articles.
 
 Raw stream example is an example of a raw stream from twitter based on keywords.
