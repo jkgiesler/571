@@ -1,0 +1,166 @@
+Country	GWP06VA	GWP06GE	GWP06RL	GWP06CC
+Afghanistan	0.54	0.56	0.62	0.30
+Angola	0.37	0.41	0.59	0.31
+Albania	0.24	0.49	0.59	0.30
+United Arab Emirates	NA	0.77	0.90	NA
+Argentina	0.36	0.50	0.52	0.24
+Armenia	0.10	0.59	0.59	0.21
+Australia	0.65	0.63	0.76	0.68
+Austria	0.70	0.74	0.82	0.64
+Azerbaijan	0.36	0.49	0.61	0.44
+Burundi	0.66	0.39	0.63	0.40
+Belgium	0.64	0.73	0.72	0.54
+Benin	0.42	0.32	0.58	0.47
+Burkina Faso	0.22	0.30	0.61	0.32
+Bangladesh	0.44	0.67	0.71	0.30
+Bulgaria	0.36	0.40	0.57	0.19
+Bahrain	NA	NA	NA	NA
+Bahamas, The	NA	NA	NA	NA
+Bosnia and Herzegovina	0.39	0.52	0.65	0.18
+Belarus	0.46	0.60	0.62	0.62
+Belize	NA	NA	NA	NA
+Bolivia	0.38	0.62	0.46	0.35
+Brazil	0.19	0.53	0.53	0.28
+Bhutan	NA	NA	NA	NA
+Botswana	0.82	0.57	0.75	0.36
+Central African Republic	NA	NA	NA	NA
+Canada	0.60	0.65	0.79	0.43
+Switzerland	0.79	0.80	0.81	0.73
+Chile	0.59	0.66	0.55	0.47
+China	NA	NA	NA	NA
+Cote d'Ivoire	NA	NA	NA	NA
+Cameroon	0.24	0.47	0.59	0.12
+Congo, Rep.	NA	NA	NA	NA
+Colombia	0.30	0.68	0.59	0.27
+Comoros	NA	NA	NA	NA
+Costa Rica	0.48	0.64	0.60	0.25
+Cuba	0.51	0.32	0.69	NA
+Cyprus	0.77	0.54	0.76	0.52
+Czech Republic	0.60	0.50	0.50	0.29
+Germany	0.53	0.65	0.79	0.36
+Djibouti	NA	NA	NA	NA
+Denmark	0.77	0.75	0.88	0.83
+Dominican Republic	0.34	0.61	0.58	0.38
+Algeria	NA	0.50	0.81	NA
+Ecuador	0.17	0.65	0.45	0.08
+Egypt, Arab Rep.	NA	0.52	NA	NA
+Spain	0.64	0.58	0.64	0.41
+Estonia	0.31	0.43	0.61	0.49
+Ethiopia	0.13	0.29	0.46	0.36
+Finland	0.94	0.70	0.87	0.92
+Fiji	NA	NA	NA	NA
+France	0.60	0.70	0.70	0.36
+Gabon	NA	NA	NA	NA
+United Kingdom	0.63	0.65	0.72	0.68
+Georgia	0.21	0.54	0.63	0.44
+Ghana	0.61	0.64	0.69	0.28
+Guinea	NA	NA	NA	NA
+Greece	0.63	0.50	0.62	0.60
+Guatemala	0.38	0.69	0.56	0.30
+Guyana	NA	NA	NA	NA
+Hong Kong SAR, China	0.65	0.72	0.89	0.78
+Honduras	0.36	0.63	0.56	0.23
+Croatia	0.37	0.62	0.62	0.23
+Haiti	0.31	0.36	0.54	0.30
+Hungary	0.45	0.47	0.65	0.27
+Indonesia	0.45	0.54	0.74	0.16
+India	0.40	0.67	0.71	0.29
+Ireland	0.76	0.67	0.77	0.58
+Iran, Islamic Rep.	0.47	0.41	0.61	0.39
+Iraq	NA	NA	NA	NA
+Iceland	NA	NA	NA	NA
+Israel	0.43	0.61	0.66	0.19
+Italy	0.46	0.54	0.63	0.24
+Jamaica	0.15	0.61	0.57	0.13
+Jordan	0.53	0.69	0.88	0.52
+Japan	0.53	0.69	0.74	0.41
+Kazakhstan	0.41	0.58	0.56	0.34
+Kenya	0.63	0.55	0.57	0.13
+Kyrgyz Republic	0.20	0.43	0.51	0.16
+Cambodia	0.69	0.48	0.65	0.28
+Korea, Rep.	0.43	0.65	0.59	0.32
+Kosovo	0.44	0.47	0.67	0.19
+Kuwait	0.61	0.83	0.84	NA
+Lao PDR	0.88	0.71	0.80	NA
+Lebanon	0.41	0.55	0.58	0.10
+Liberia	NA	NA	NA	NA
+Libya	NA	NA	NA	NA
+Sri Lanka	0.22	0.66	0.78	0.24
+Lesotho	NA	NA	NA	NA
+Lithuania	0.26	0.55	0.52	0.08
+Luxembourg	NA	NA	NA	NA
+Latvia	0.25	0.56	0.56	0.20
+Morocco	0.25	0.37	0.74	0.16
+Moldova	0.29	0.45	0.53	0.21
+Madagascar	0.50	0.43	0.73	0.46
+Maldives	NA	NA	NA	NA
+Mexico	0.31	0.64	0.54	0.25
+Macedonia, FYR	0.31	0.53	0.60	0.26
+Mali	0.40	0.33	0.71	0.30
+Malta	NA	NA	NA	NA
+Myanmar	NA	0.74	0.95	NA
+Montenegro	0.42	0.44	0.63	0.54
+Mongolia	NA	NA	NA	NA
+Mozambique	0.43	0.58	0.63	0.28
+Mauritania	0.47	0.35	0.69	0.51
+Mauritius	NA	NA	NA	NA
+Malawi	0.42	0.62	0.71	0.34
+Malaysia	0.55	0.70	0.73	0.39
+Namibia	NA	NA	NA	NA
+Niger	0.55	0.42	0.74	0.31
+Nigeria	0.11	0.43	0.54	0.14
+Nicaragua	0.27	0.66	0.56	0.21
+Netherlands	0.80	0.68	0.70	0.59
+Norway	0.83	0.67	0.86	0.77
+Nepal	0.41	0.78	0.63	0.28
+New Zealand	0.72	0.66	0.79	0.80
+Oman	NA	NA	NA	NA
+Pakistan	0.38	0.59	0.64	0.29
+Panama	0.43	0.69	0.60	0.15
+Peru	0.38	0.47	0.44	0.11
+Philippines	0.27	0.71	0.73	0.19
+Poland	0.32	0.47	0.51	0.11
+Puerto Rico	0.22	0.42	0.64	0.12
+Portugal	0.59	0.69	0.67	0.38
+Paraguay	0.22	0.60	0.56	0.25
+Qatar	NA	NA	NA	NA
+Romania	0.45	0.47	0.57	0.23
+Russian Federation	0.17	0.46	0.45	0.20
+Rwanda	0.93	0.66	0.87	0.78
+Saudi Arabia	0.58	0.73	0.91	NA
+Sudan	NA	NA	NA	NA
+Senegal	0.41	0.41	0.74	0.35
+Singapore	0.72	0.85	0.89	0.85
+Sierra Leone	0.37	0.39	0.60	0.19
+El Salvador	0.24	0.78	0.56	0.36
+Somalia	NA	NA	NA	NA
+Serbia	0.48	0.52	0.61	0.31
+Suriname	NA	NA	NA	NA
+Slovak Republic	0.44	0.41	0.56	0.16
+Slovenia	0.73	0.62	0.64	0.56
+Sweden	0.66	0.70	0.70	0.73
+Swaziland	NA	NA	NA	NA
+Syrian Arab Republic	NA	NA	NA	NA
+Chad	0.09	0.22	0.39	0.09
+Togo	0.21	0.35	0.55	0.29
+Thailand	0.34	0.82	0.79	0.15
+Tajikistan	0.36	0.48	0.67	0.56
+Turkmenistan	NA	NA	NA	NA
+Trinidad and Tobago	0.27	0.58	0.47	0.18
+Tunisia	NA	NA	NA	NA
+Turkey	0.48	0.48	0.69	0.35
+Taiwan, China	0.17	0.65	0.57	0.20
+Tanzania	0.64	0.41	0.74	0.49
+Uganda	0.42	0.40	0.69	0.31
+Ukraine	0.18	0.47	0.44	0.22
+Uruguay	0.79	0.62	0.60	0.68
+United States	0.50	0.63	0.76	0.40
+Uzbekistan	NA	NA	0.96	0.65
+Venezuela, RB	0.44	0.56	0.51	0.43
+Vietnam	0.67	0.68	0.85	0.71
+West Bank and Gaza	0.36	0.48	0.56	0.23
+Yemen, Rep.	0.35	0.49	0.55	0.27
+South Africa	0.49	0.52	0.65	0.29
+Congo, Dem. Rep.	NA	NA	NA	NA
+Zambia	0.24	0.57	0.63	0.24
+Zimbabwe	0.20	0.45	0.57	0.15
